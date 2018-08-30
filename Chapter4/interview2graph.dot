@@ -1,0 +1,48 @@
+Digraph G {
+	//Interview 2 9-Apr
+	
+	Dev [label="DSS Developer", shape=circle];
+	DSS [label="Decision Support System", shape="circle"];
+	PAM [shape="circle"];
+	BF [label="Blast Furnace", shape="circle"];
+	CRPC [label="Control Room Process Controller", shape="circle"];
+	DPDS [label="DP Data Sheet", shape="circle"];
+	CRSC [label="Control Room System Controller", shape="circle"];
+	BFPE [label="Blast Furnace Process Engineer", shape="circle"];
+	BFPM [label="Blast Furnace Process Manager", shape="circle"];
+	
+	Dev -> DSS [label="Code\nKnowledge"];
+	DSS -> Dev [label="Textual Advice\nKnowledge"];
+	DSS -> CRPC [label="Textual Advice\nKnowledge"];
+	DSS -> CRSC [label="Textual Advice\nKnowledge"];
+	PAM -> DSS [label="PAM Real Values\nData"];
+	PAM -> DSS [label="PAM Calculated values\nData"];
+
+	CRPC -> PAM [label="Derived Values\nData"];
+
+	PAM -> CRPC [label="PAM Calculated values\nData"];
+	PAM -> CRPC [label="PAM Real Values\nData"];
+
+	PAM -> CRSC [label="PAM Calculated values\nData"];
+	PAM -> CRSC [label="PAM Real Values\nData"];
+
+	CRPC -> BF [label="Setpoints\nData"];
+	BF -> PAM [label="Real Values\nData"];
+	CRPC -> DPDS [label="Derived Values\nData"];
+	CRPC -> DPDS [label="Real Values\nData"];
+	CRSC -> DPDS [label="Derived Values\nData"];
+	CRSC -> DPDS [label="Real Values\nData"];
+	BFPE -> CRPC [label="Standard Operating Procedure\nKnowledge"];
+	BFPE -> CRPC [label="How to use\nKnowledge"];
+	BFPE -> CRPC [label="Daily Targets\nInformation"];
+	BFPE -> Dev [label="Standard Operating Procedure\nKnowledge"];
+	BFPM -> BFPE [label="Monthly Target\nKnowledge"];
+	BFPM -> Dev [label="Production Philosophy\nKnowledge"];
+	BFPE -> BFPM [label="BF Process Condition Health\nInformation"];
+	CRPC -> CRSC [label="Experience\nKnowledge"];
+	CRPC -> CRSC [label="Talk\nInformation"];
+	BFPM -> BFPE [label="Production Conditions\nKnowledge"];
+}
+
+
+

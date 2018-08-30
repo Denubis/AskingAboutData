@@ -1,0 +1,14 @@
+\starttext
+
+\definestartstop
+  [exdent]
+  [before={\startnarrower[left]\setupindenting[-\leftskip,yes]},
+   after=\stopnarrower]
+
+\setuphead[section][indentnext=yes]
+\section{Test}
+\startexdent
+\input knuth \endgraf
+\stopexdent
+
+\stoptext

@@ -1,0 +1,48 @@
+Digraph G {
+	//Interview 2 9-Apr
+	
+	Dev [label="Developer", shape=circle];
+	DSS [label="Decision Support System", shape="circle"];
+	DS [label="Data System" shape="circle"];
+	LM [label="Large Machine", shape="circle"];
+	PC [label="Process Controller", shape="circle"];
+	DS [label="Data Sheet", shape="circle"];
+	SC [label="System Controller", shape="circle"];
+	PE [label="Process Engineer", shape="circle"];
+	PM [label="Process Manager", shape="circle"];
+	
+	Dev -> DSS [label="Code\nKnowledge"];
+	DSS -> Dev [label="Textual Advice\nKnowledge"];
+	DSS -> PC [label="Textual Advice\nKnowledge"];
+	DSS -> SC [label="Textual Advice\nKnowledge"];
+	DS -> DSS [label="Real Values\nData"];
+	DS -> DSS [label="Calculated values\nData"];
+
+	PC -> DS [label="Derived Values\nData"];
+
+	DS -> PC [label="Calculated values\nData"];
+	DS -> PC [label="Real Values\nData"];
+
+	DS -> SC [label="Calculated values\nData"];
+	DS -> SC [label="Real Values\nData"];
+
+	PC -> LM [label="Setpoints\nData"];
+	LM -> DS [label="Real Values\nData"];
+	PC -> DS [label="Derived Values\nData"];
+	PC -> DS [label="Real Values\nData"];
+	SC -> DS [label="Derived Values\nData"];
+	SC -> DS [label="Real Values\nData"];
+	PE -> PC [label="Standard Operating Procedure\nKnowledge"];
+	PE -> PC [label="How to use\nKnowledge"];
+	PE -> PC [label="Daily Targets\nInformation"];
+	PE -> Dev [label="Standard Operating Procedure\nKnowledge"];
+	PM -> PE [label="Monthly Target\nKnowledge"];
+	PM -> Dev [label="Production Philosophy\nKnowledge"];
+	PE -> PM [label="Process Condition Health\nInformation"];
+	PC -> SC [label="Experience\nKnowledge"];
+	PC -> SC [label="Talk\nInformation"];
+	PM -> PE [label="Production Conditions\nKnowledge"];
+}
+
+
+

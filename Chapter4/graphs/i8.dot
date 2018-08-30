@@ -1,0 +1,26 @@
+digraph G{
+	meet [label="Meeting"];
+	chair [label="Position 113"];
+	adv [label="Position 114"];
+	supp [label="Position 146"];
+	blk [label="Blackboard"];
+	inv [label="Position 101"];
+	def [label="Position 115"];
+	
+	adv -> meet [label="Moment of Clairity\nData"];
+	supp -> meet [label="Feasbility\nData"];
+	supp -> meet [label="Programming\nKnowledge"];
+	meet -> blk [label="To-Do List\nData"];
+	meet -> blk [label="Conclusions\nKnowledge"];
+	inv -> meet [label="Support of Idea\nData"];
+	inv -> meet [label="Noun 117\nKnowledge"];
+	chair -> meet [label="Noun 130\nKnowledge"];
+	chair -> def [label="Call for Progress\nData"];
+	adv -> def [label="Pesonal Relationship\nInformation"];
+	def -> meet [label="State of the Art\nKnowledge"];
+	meet -> def [label="Nonverbal Cues\nData", dir="both"];
+	def -> meet [label="Overall Performance\nInformation"];
+	def -> meet [label="Improvement Discussion\nInformation"];
+	def -> meet [label="Logical Argument\nInformation"];
+	
+}

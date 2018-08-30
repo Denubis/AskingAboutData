@@ -1,0 +1,40 @@
+digraph G{
+
+	Supplier [label="Position 59"];
+
+	TechMan [label="Position 27", sgraph="cluster_BS"];
+	Data [label="Position 65", sgraph="cluster_BS"];
+	Trial [label="Position 100", sgraph="cluster_BS"];
+	AQ [label="Noun 71", sgraph="cluster_BS"];
+	Con [label="Noun 63", sgraph="cluster_BS"];
+	ISSD [label="Noun 64 Database", sgraph="cluster_BS"];
+
+	Supplier -> TechMan [label="Analysis\nData & Information"];
+	Supplier -> Data [label="Analysis\nData & Information"];
+	Supplier -> TechMan [label="Explanation\nKnowledge"];
+	Supplier -> Data  [label="Explanation\nKnowledge"];
+
+	TechMan -> Supplier [label="Contextual Questions\nInformation & Knowledge"];
+	Data -> Supplier [label="Operating Data\nData"];
+	
+	Data -> TechMan [label="Incomplete Knowledge\nKnowledge"];
+		
+	Data->AQ [label="Noun 75\nInformation"];
+	AQ -> Data [label="Programmed Samples\nData"];
+	AQ -> Data [label="Results\nData"];
+
+	Data -> Trial [label="Validated Request for data\nInformation"];
+	Trial -> Data [label="Measurements\nData"];
+	Trial -> Data [label="Useful Abstractions\nKnowledge"];
+
+	Data -> ISSD [label="SQL\nMeta-data"];
+	ISSD -> Data [label="Noun 67 Operating Data\nData"];
+
+	Con -> ISSD [label="Derived Data\nData"];
+	Con -> ISSD [label="Raw Data\nData"];
+	
+	Data -> Con [label="Selection\nData"];
+	Data -> Con [label="Subscription Request\nMeta-data"];
+	Con -> Data [label="Menu\nInformation"];
+	Con -> Data [label="Live or Historical Noun 70\nData"];
+}

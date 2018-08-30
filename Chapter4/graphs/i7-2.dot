@@ -1,0 +1,30 @@
+digraph H {
+	eng [label="Position 58"];
+	lead [label="Lead  Position 58"];
+	fluid [label="Software Package"];
+	other [label="Other Position 58"];
+	auto [label="Different Position 58"];
+	con [label="Noun 63"];
+	
+	eng -> auto [label="Noun 63 Understanding\nKnowledge"];
+	eng -> auto [label="Noun 97 Understanding\nKnowledge"];
+	eng-> other [label="Noun 97 Understanding\nKnowledge"];
+	
+	other -> eng [label="Other Noun 96 Results\nData"];
+	other -> lead [label="Other Noun 96 Results\nData"];
+	
+	eng -> lead [label="Documentation\nInformation"];
+	eng -> lead [label="Noun 96 Results\nData"];
+	eng -> lead [label="Noun 95 Calculations\nData"];
+	eng -> lead [label="Noun 97 Description\nKnowledge & Information & Data"];
+	eng -> lead [label="Noun 96 Reports\nInformation & Data"];
+	lead -> eng [label="Noun 97 Knowledge\nKnowledge"];
+	lead -> eng [label="Direction\nInformation"];
+	
+	eng -> fluid [label="Inputs\nData"];
+	fluid -> eng [label="Results\nData"];
+	
+	con -> eng [label="Noun 97 Results\nData"];
+	
+}
+

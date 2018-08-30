@@ -1,0 +1,84 @@
+\startcomponent c_3_starting
+\product prd_Chapter3_Methodology
+\project project_thesis
+
+The terms and nature of the \SDFN\ should be gently explained to the participant. If they seem unsure, engage in the brainstorming tactic of creating an entity dictionary before proceeding. From conversation during the introduction, the participant and interviewer should agree upon the topic, referred to as the universe of discourse\footnote{The universe of discourse is the bounded realm under investigation. }. The topic should be drawn from the participant's common work experience, to give them sufficient memories to draw upon. The pre-defined topic sets the limits of exploration and acts as a \UoD. When those limits have been reached, the \SDFN\ is completed. 
+
+\sidebar{In the interviews, I tried to avoid using terms like \quotation{universe of discourse} or even \quotation{ready-to-enhand} because the jargon only distracted from the topic. Instead, in the small chat at the start of the interview, I asked them to tell me about their job. Then I asked open questions about \quotation{interesting} aspects of their job, ones that involved data in some way. This casual conversation is crucial for reassuring the participant and steering the direction of the discussion. If the small talk was not enough, we moved to a heavily scaffolded entity dictionary, to see what entities they are most interested in, and thereby define the universe of discourse.}
+
+Participants begin by describing or selecting two entities within the universe of discourse. One entity should be a role associated with the participant for ease of imagination and the other can be anything with which the participant interacts. Quite a lot of prompting will generally be necessary during this first interaction. Prompting should take the form of open-ended questions, guiding the participants to first establish their own roles as entities. Once they have described themselves, they should identify the role they interact with as another entity, and then be guided into describing a flow between those entities. Through the use of guiding open-ended questions and the interviewer serving as scribe, each participant should create the entities, flows, label the flow, and then categorize the flow. The interviewer should never label or categorize anything. 
+
+This process of identifying flow and entity should continue in an iterative loop until the interviewee starts tiring. Generally, the topic will be sufficiently broad for a 30- to 40-minute diagramming session. If you end earlier, repeat with a different topic in a new diagram. After identifying the first pair of entities, however, the order changes. The subject should be encouraged to identify a flow first, and then to add entities as necessary. Participants should only create one new entity at a time, and then try to relate other entities to that one.
+
+The graph, for purposes of clarity and ease of expression, should remain at least weakly connected\footnote{Roughly speaking, a weakly connected graph means that every entity must somehow be attached to all the entities present in the SDFN. While \quotation{subgraphs} (groups of entities not connected to the rest of the graph at all) are possible, they tend to increase confusion and should be dealt with separately.
+\quotation{A directed graph is called weakly connected if replacing all of its directed edges with undirected edges produces a connected (undirected) graph. It is connected if it contains a directed path from u to v or a directed path from v to u for every pair of vertices u, v. It is strongly connected or strong if it contains a directed path from u to v and a directed path from v to u for every pair of vertices u, v. The strong components are the maximal strongly connected subgraphs.} Wikipedia -- http://en.wikipedia.org/wiki/Connectivity_(graph_theory)
+
+}. Isolated subgraphs should be moved to their own papers and explored as completely different graphs. Separating the graphs can create distance between the topics. This distance allows one topic to be completed and then another role to be assumed when talking about the other topic. 
+
+\sidebar{The technical pilot explored the dynamics of a game, established as something that was not too hard and that we both knew, and if I lost the interview to technical problems, no real harm would be done. The purpose of this chat was my looking for nouns to pounce on as entities: Clan, Clan Master, Game. Despite the small talk, these few lines described enough entities to get started. Later, I asked the participant to describe a flow between these entities. 
+
+Interviewer: When did you start that sort of thing? 
+
+Participant: ... I signed up and started playing a little bit. ... and that was a number of years ago. And ever since there I've been playing with the same clan and gaining more responsibility throughout the years. At the moment, I'm a clan master.}
+
+The interviewer has a number of tasks during this process. He or she should provide enough scaffolding\footnote{Scaffolding: structured guidance to the participant to reduce choice paralysis and help direct them to the correct actions in the circumstance. Different people need different amounts of scaffolding, and it can be progressively removed as the participant learns what they need to do. The metaphor is well discussed by stone in relating to children's learning, but can also be applied to interface design\cite{Stone1998}.} so that the interviewees feel comfortable in suggesting their own flows and entities. This will require progressively less scaffolding as the first few entities will provide both positive and negative feedback. It is vital to gently clarify incorrect entities and flow descriptions the moment they are suggested. The interviewer must insure each flow added is unique, understandable, and directed. Although correcting flows after the fact is encouraged as the participant refines his or her terms and understanding of the diagram, ambiguity must be caught immediately, before it can sabotage the \SDFN.
+
+The process of clarification can be seen in this transcript:
+
+\startextract
+Interviewer: What other flows are there?
+
+Participant: Well, it just sends back results.
+
+Interviewer: Same results or are these results different from these results?
+
+Participant: They are different. But not in nature. Just in ... obviously, I'm not going to take every result I take from the code and send it on. Because that would be ridiculous.
+
+\stopextract
+
+\sidebar{Here, I'm trying to guide the participant to greater specificity by asking questions. Once the label is established I asked what the category of the flow was. Open questions are a key element of scaffolding. Make sure to prompt without leading.
+
+Interviewer:  Let's start by diagramming just the basic data flows. Where should we start? 
+
+Participant: Well, I guess that the most trivial is between myself and the game.
+
+Interviewer: ... What would you label this as?
+
+Participant: I'd label that as sort of data. I just send it stuff. It doesn't need any context. It's stuff like \quotation{I. Am. Going. To. Rez. The. Fort.}
+}
+
+When a participant uses an entity word in a different way, it is important to catch the usage and ask questions about it. Clarifications also serve as negative results, as \quotation{what do you mean by that?} changes their mental term for an entity as the term is refined. In contrast, simple and low-key responses like \quotation{Cool, so would you classify that as data, information, knowledge, or other?} are positive feedback, indicating a mild approval and acceptance of the concept. In the beginning, it is better to be more detailed about the nature of entities so that, by the end of the interview, the labels on flows and entities are just flowing naturally.
+
+This iterative approach is also useful as it saves significant and boring theoretical explanations at the start of the interview, which may bore the participant, make them hostile (as some do not like being explained to), or be redundant because they're not listening anyways.
+
+The objective of the \SDFN\ is a page or two of bubbles connected by arcing flows\footnote{See figure \in[fig:flow].}. This paper graph can be trivially digitized in Graphviz. Graphviz is a graph layout program that accepts a text description of the desired diagram and then renders it graphically. The application of Graphviz to the problem saves significant post-processing time in labeling and diagramming flows. Although this research was rendered in Graphviz on Linux workstations, any program that can render graphs can be used for post-processing.
+
+Post-processing involves roughly three steps. First, in one file, describe the list of entities and the relationships among them\footnote{See appendix B page (\at[AppendixGraphviz]) for code.}. Entities should be defined first with distinct labels. The distinct labels are very useful because they provide a way to ensure the quality of the subsequent graph. Graphviz is quite permissive with entities. Typos in entity names in either the entity or relationship section will be happily accepted as valid input by the program. Identifying unusual entities that are not expected on the final output is a great way of checking for node validity.
+
+% works
+
+
+
+Edge validity can be checked by counting the total number of edges of each entity\footnote{Starting from the top of an entity, make a tiny mark at the edge chosen, then circle clockwise around it, counting each edge. 
+The count should be the same for the entity on paper and the entity rendered in the computer-based visualization. This practice is more effective than counting every edge in the diagram at one time because when the count is off, it is easier to figure out what edge is missing, but faster than comparing edge by edge.
+}. There should be a 1:1 relationship between the paper level of connectedness and the diagram. By counting the number of edges around each node and comparing that total to the original graph, one can trace errors in the diagramming to specific entities and then fix those errors. 
+
+
+
+\subsection{Running an Interview}
+
+This section will discuss the necessary items and methodology for running the interview. There are only two physical requirements: good paper and two good recorders. A backup recorder is essential because these interviews are impossible to duplicate: as people resolve their internal cognitive dissonance throughout the interview, their answers change. It is therefore impossible to re-run the interview, though running follow-up interviews tends to be quite fruitful. It is important to prepare for all the ways in which an interview might fail. A repeated interview covering the same ground should instead focus on a discussion of categorization choices on the interviewee's already completed \SDFN. The \SDFN\ should have clarified their internal thinking as to what their philosophy of data was so all that remains is to re-record their ideas. 
+
+During my interviews, I used a mini-recorder and my laptop. The laptop, despite being large and distracting, served as an excellent recording device because it recorded directly in the audio post-processing program Audacity. Audacity is highly recommended both as an interview-recording program and as a sound post-processing program. It is important to process the recordings before transcription due to inevitable background, A/C, and RF noise. Phones should be turned off during the interview as they generate inordinate amounts of RF noise that can severely corrupt the recording. 
+
+\sidebar{In another interview, the participant was interested in exploring their recent research from an academic perspective as well as from the perspective of a workplace research project. We decided to make two shorter SDFNs rather than combine them into one. By using different sheets of paper, I was able to induce a cognitive break in the discussion and some differences in philosophy appeared between them. We chose to do the second \SDFN\ mainly because the first one took so little time. By being open to the needs and energy levels of the participant, I produced an extra diagram and some interesting insights.
+}
+
+Ease of access is a function of recording availability and limits the utility of many mini-recorders. Extracting recordings from some recorders involves considerable effort and requires proprietary software and cords. It is important to test the full extraction process from all of the candidate recording devices before engaging in an interview. If it is not easily feasible to extract common file formats from the device, select another device. Optimally, the device will produce an mp3 audio file, as that is the {\em de facto} compressed audio standard. Voice, being easily compressible, is a perfect fit for mp3, and many hours of recording can be stored with ease. An earlier uncompressed format (wav) is also suitable, being compatible with any modern computer. The wav file sizes are, however, much larger. Before the interview, make sure there is sufficient space on the devices for twice the estimated interview length. 
+
+Paper selection is significantly easier. A large pad of paper is sufficient, though higher quality pads are desirable as they will tear less easily, and absorb the ink from the pens. Fast drying pens are preferred, though any tip will work. Each sheet on the pad should be labeled as it is used with the number of the interview, the page count, and the date. In case the pages are arranged out of order, this information is sufficient to reconstruct the drawing order and interview. 
+
+
+
+\stopcomponent
+

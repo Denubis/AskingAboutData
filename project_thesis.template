@@ -1,0 +1,243 @@
+/* template for file project_thesis.export */
+
+/* category: delimited */
+
+delimited[detail=extract] {
+    display: inline ;
+}
+
+delimited[detail=quotation] {
+    display: inline ;
+}
+
+delimited[detail=quote] {
+    display: inline ;
+}
+
+/* category: description */
+
+description[detail=footnote] {
+    display: block ;
+}
+
+description[detail=syndef] {
+    display: block ;
+}
+
+/* category: descriptioncontent */
+
+descriptioncontent {
+    display: inline ;
+}
+
+/* category: descriptionsymbol */
+
+descriptionsymbol[detail=footnote] {
+    display: inline ;
+}
+
+/* category: descriptiontag */
+
+descriptiontag {
+    display: inline ;
+}
+
+/* category: float */
+
+float[detail=figure] {
+    display: block ;
+}
+
+float[detail=marginfigure] {
+    display: block ;
+}
+
+/* category: floatcaption */
+
+floatcaption {
+    display: block ;
+}
+
+/* category: floatcontent */
+
+floatcontent {
+    display: inline ;
+}
+
+/* category: floattag */
+
+floattag {
+    display: inline ;
+}
+
+/* category: floattext */
+
+floattext {
+    display: inline ;
+}
+
+/* category: image */
+
+image {
+    display: inline ;
+}
+
+/* category: item */
+
+item {
+    display: block ;
+}
+
+/* category: itemcontent */
+
+itemcontent {
+    display: inline ;
+}
+
+/* category: itemgroup */
+
+itemgroup[detail=itemize] {
+    display: block ;
+}
+
+/* category: itemtag */
+
+itemtag {
+    display: inline ;
+}
+
+/* category: link */
+
+link {
+    display: inline ;
+}
+
+/* category: list */
+
+list {
+    display: block ;
+}
+
+/* category: listcontent */
+
+listcontent {
+    display: inline ;
+}
+
+/* category: listitem */
+
+listitem[detail=chapter] {
+    display: block ;
+}
+
+listitem[detail=section] {
+    display: block ;
+}
+
+listitem[detail=subsection] {
+    display: block ;
+}
+
+listitem[detail=subsubsection] {
+    display: block ;
+}
+
+/* category: listpage */
+
+listpage {
+    display: inline ;
+}
+
+/* category: listtag */
+
+listtag {
+    display: inline ;
+}
+
+/* category: math */
+
+math {
+    display: block ;
+}
+
+/* category: mi */
+
+mi {
+    display: inline ;
+}
+
+/* category: mo */
+
+mo {
+    display: inline ;
+}
+
+/* category: mrow */
+
+mrow {
+    display: block ;
+}
+
+/* category: section */
+
+section[detail=chapter] {
+    display: block ;
+}
+
+section[detail=section] {
+    display: block ;
+}
+
+section[detail=subsection] {
+    display: block ;
+}
+
+section[detail=subsubsection] {
+    display: block ;
+}
+
+section[detail=title] {
+    display: block ;
+}
+
+/* category: sectioncontent */
+
+sectioncontent {
+    display: block ;
+}
+
+/* category: sectionnumber */
+
+sectionnumber {
+    display: inline ;
+}
+
+/* category: sectiontitle */
+
+sectiontitle {
+    display: inline ;
+}
+
+/* category: synonym */
+
+synonym[detail=abbreviation] {
+    display: inline ;
+}
+
+/* category: verbatimblock */
+
+verbatimblock[detail=typing] {
+    display: block ;
+}
+
+/* category: verbatimline */
+
+verbatimline {
+    display: inline ;
+}
+
+/* category: verbatimlines */
+
+verbatimlines {
+    display: block ;
+}

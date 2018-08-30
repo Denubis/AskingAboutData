@@ -1,0 +1,55 @@
+digraph G{
+
+	pc 	[label="Noun 88"];
+	dev 	[label="Position 129"];
+	oper 	[label="Position 90"];
+	sample	[label="Sample"];
+	taker	[label="Sample  Taker"];
+	lab	[label="Laboratory"];
+	db	[label="Process  Database"];
+	psi	[label="Sensors  & Infrastructure"];
+	clock	[label="Clock"];
+	switch	[label="Switches"];
+	line	[label="Position 144"];
+	sec	[label="Position 145"];
+	man	[label="Position 142"];
+	share	[label="Shareholders"];
+	
+	dev -> pc 	[label="Certified Data Set\nFormal Knowledge"];
+	dev -> pc 	[label="Detailed Rationale\nKnowledge"];
+	dev -> db 	[label="Program Commands\nInformation Request"];
+	db -> dev 	[label="Historical Process Variables\nData"];
+	oper -> dev	[label="Observations\nInformation & Knwoledge"];
+	dev -> oper 	[label="Feedback\nKnowledge -> Information"];
+	dev -> taker 	[label="Simplified Rationale\nKnowledge Request"];
+	taker -> dev 	[label="Chemical AnalysisData"];
+	taker -> dev 	[label="Recorded Site Observations\nData"];
+	dev -> taker 	[label="Expertise\nKnowledge"];
+	taker -> dev 	[label="Physical Nature\nInformation"];
+	
+	pc -> db 	[label="Program Commands\nInformation Request"];
+	db -> pc 	[label="Historical Process Variables\nData"];
+	
+	sample -> taker [label="Provenance\nInformation"];
+	sample -> taker [label="Environmental Observations\nInformation"];
+	sample -> taker [label="Physical Body\nInformation"];
+	sample -> lab 	[label="Phsyical Sample\nData"];
+	lab -> db 	[label="Sample Chemistry\nData"];
+	db -> psi 	[label="Entry\nRequest"];
+	psi -> db	[label="Process Variables\nData"];
+	clock -> db	[label="Timestamp\nData"];
+	switch -> db	[label="Status Information\nData & Information"];
+	db -> switch	[label="Entry\nRequest"];
+	
+	dev -> line [label="Story\nData & Information & Knowledge"];
+	line -> dev [label="Organizational & Research Directives\nRequests>Information"];
+	dev -> sec [label="Audience\nRequest", dir="both"];
+	dev -> man [label="Findings\nInformation"];
+	man -> dev [label="Direction\nRequests & Information"];
+	sec -> man [label="Schedule\nInformation"];
+	man -> share [label="Annual Report\nInformation"];
+	share -> man [label="Technical Questions\nRequest"]; // Need to make this a dotted line.
+	pc -> line [label="Day by day reports\nInformation & Data & Knowledge"];
+	line -> pc [label="Directives\nRequests"];
+	
+}

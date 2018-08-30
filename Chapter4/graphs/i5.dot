@@ -1,0 +1,34 @@
+digraph G{
+	Team [label="Team"];
+	ResA [label="Position 86 A"];
+	InfoA [label="Position 87 A"];
+	ResB [label="Position 86 B"];
+	DB [label="Database"];
+	InfoB [label="Position 87 B"];
+	
+	Team -> InfoA [label="Priority\nInformation"];
+	InfoA -> Team [label="Status Update\nInformation"];
+	ResA -> InfoA [label="Question\nInformation"];
+	ResA -> InfoA [label="Priority\nInformation"];
+	InfoA -> ResA [label="Contact Info\nInformation"];
+	InfoA -> ResA [label="Formatted Search Result\nData"];
+	InfoA -> ResA [label="Status Update\nInformation"];
+	InfoA -> DB [label="Topic Request\nData"];
+	DB -> InfoA [label="Result\nData"];
+	DB -> ResA [label="Result\nData"];
+	DB -> ResB [label="Result\nData"];
+	DB -> InfoA [label="Null Result\nData"];
+	DB -> ResA [label="Null Result\nData"];	
+	DB -> ResB [label="Null Result\nData"];	
+	ResB -> DB [label="Refined Question\nData"];
+	InfoA -> ResB [label="Referral\nInformation"];
+	InfoA -> ResB [label="Refined Question\nInformation"];
+	ResB -> InfoA [label="Their Experience\nKnowledge"];
+	ResB -> InfoA [label="Dead End\nInformation"];
+	InfoA -> InfoB [label="Refined Question\nInformation"];
+	InfoB -> InfoA [label="Search Status\nInformation"];
+	InfoB -> InfoA [label="Invoice\nData"];
+	InfoB -> InfoA [label="No Result\nInformation"];
+	InfoB -> InfoA [label="Search Result\nData"];
+	
+}

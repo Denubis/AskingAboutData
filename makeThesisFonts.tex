@@ -1,0 +1,24 @@
+% type-sil-gentium.tex
+% Typescript for serif family SIL Gentium
+
+% This is the first change we need to make: we list all the encodings it can match,
+% and then use that data within the typescript:
+\loadmapfile[ec-sil-gentium.map]
+\usetypescriptfile[type-buy]
+
+\starttypescript [serif] [Gentium] [ec]
+  \usetypescript[serif][fallback]
+  \definefontsynonym [Gentium-Roman]       [ec-GentiumRegular]  [encoding=ec]
+  \definefontsynonym [Gentium-Italic]      [ec-GentiumItalic] [encoding=ec]
+\stoptypescript
+
+\starttypescript [serif] [Gentium] [name]
+  \usetypescript[serif][fallback]
+  \definefontsynonym [Serif]           [Gentium-Roman]
+  \definefontsynonym [SerifItalic]     [Gentium-Italic]
+\stoptypescript
+
+\starttypescript [Gentium] 
+  \definetypeface [MyGentium] [rm] [serif] [Gentium] [default] [encoding=ec]
+\stoptypescript
+

@@ -1,0 +1,30 @@
+\starttext
+
+\definefloat
+[marginfigure]
+
+\setupfloats
+[sidespacebefore=none,
+sidespaceafter=depth]
+
+\setuptyping
+[margin=]
+
+\setupfloat
+[marginfigure]
+[criterium=.5\textwidth,
+maxwidth=\rightmarginwidth,
+default={outermargin,none}]
+
+
+\setupframedtexts[background=screen, 
+	corner=round, 
+	width=7cm,
+	style={\setupbodyfont[10pt]}]
+
+\placemarginfigure{} {\framedtext{In this section, the steps towards creating a SDFN will be described in the main text, while specific examples from my experience will be revealed in sidebars like this one. These will be reflective on the lessons I learned while creating the SDFN in contract with the prescriptive tone of the main text. }}
+
+This section will describe the process of creating a SDFN in full. It is intended as a descriptive manual to provide readers with a way to run the methodology for themselves. In brief, the SDFN begins through the explanation of terms, a summary of the ideas expressed above. If participants do not understand the nature of entities, an entity dictionary should be created. When participants understand entity and flow, a topic is chosen and the diagram is created. 
+
+
+\stoptext

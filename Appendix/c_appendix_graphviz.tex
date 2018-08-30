@@ -1,0 +1,127 @@
+\startcomponent c_appendix_graphviz
+\product prd_Appendix
+\project project_thesis
+
+\section{pretty.gv}
+
+\starttyping
+//BEG_G { graph_t g = graph("merge", "S") }
+N [label!=""] {
+	label = gsub(label, " ", "\\n");
+}
+E [label!=""] {
+		node_t l = node($G, label);
+		l.shape = "box";
+		l.fontsize = "7";
+		l.width=0;
+		l.height=0;
+		l.style="dotted";
+			
+
+		edge_t e1 = edge($.tail,l,"");
+		//e1.dir="none";
+		e1.arrowhead="odot";
+		e1.arrowsize=0.5;
+		edge_t e2 = edge(l,$.head,"");
+
+		if (match(label,"Data") != -1){
+			l.color = "#aa0000";
+			e1.color = "#aa0000";
+			e2.color = "#aa0000";
+		}
+		if (match(label,"Information") != -1){
+			l.color = "#0000aa";
+			e1.color = "#0000aa";
+			e2.color = "#0000aa";
+		}
+		if (match(label,"Knowledge") != -1){
+			l.color = "#00aa00";
+			e1.color = "#00aa00";
+			e2.color = "#00aa00";
+		}
+		delete($G, $);
+//	$.head.color = "red";
+//	$.tail.color = "blue";
+//	edge_t e = edge(t,h,label);
+//	printf(2,"%s\n",e.head);
+
+
+}
+END_G {
+	center=1;
+//	nodesep=4;
+//	ranksep=4;
+	//colorscheme="dark23";
+	startType="regular";
+	overlap="false";
+	splines="spline";
+}
+\stoptyping
+
+\section{general.dot}
+\starttyping
+
+
+
+Digraph G {
+	//Interview [X] [Date]
+	
+	Dev [label="noun 1 Developer", shape=circle];
+	DSS [label="noun 1", shape="circle"];
+	PAM [label="noun 5", shape="circle"];
+	BF  [label="noun 2", shape="circle"];
+	CRPC [label="position 8", shape="circle"];
+	DPDS [label="noun 17", shape="circle"];
+	CRSC [label="position 9", shape="circle"];
+	BFPE [label="position 22", shape="circle"];
+	BFPM [label="position 26", shape="circle"];
+	
+	Dev -> DSS [label="Code\nKnowledge"];
+	DSS -> Dev [label="Textual Advice\nKnowledge"];
+	DSS -> CRPC [label="Textual Advice\nKnowledge"];
+	DSS -> CRSC [label="Textual Advice\nKnowledge"];
+	PAM -> DSS [label="{noun 5} Real Values\nData"];
+	PAM -> DSS [label="{noun 5} Calculated values\nData"];
+
+	CRPC -> PAM [label="Derived Values\nData"];
+
+	PAM -> CRPC [label="{noun 5} Calculated values\nData"];
+	PAM -> CRPC [label="{noun 5} Real Values\nData"];
+
+	PAM -> CRSC [label="{noun 5} Calculated values\nData"];
+	PAM -> CRSC [label="{noun 5} Real Values\nData"];
+
+	CRPC -> BF [label="Setpoints\nData"];
+	BF -> PAM [label="Real Values\nData"];
+	CRPC -> DPDS [label="Derived Values\nData"];
+	CRPC -> DPDS [label="Real Values\nData"];
+	CRSC -> DPDS [label="Derived Values\nData"];
+	CRSC -> DPDS [label="Real Values\nData"];
+	BFPE -> CRPC [label="SOP\nKnowledge"];
+	BFPE -> CRPC [label="How to use\nKnowledge"];
+	BFPE -> CRPC [label="Daily Targets\nInformation"];
+	BFPE -> Dev [label="SOP\nKnowledge"];
+	BFPM -> BFPE [label="Monthly Target\nKnowledge"];
+	BFPM -> Dev [label="Production Philosophy\nKnowledge"];
+	BFPE -> BFPM [label="{noun 2}\nInformation"];
+	CRPC -> CRSC [label="Experience\nKnowledge"];
+	CRPC -> CRSC [label="Talk\nInformation"];
+	BFPM -> BFPE [label="Production Conditions\nKnowledge"];
+}
+\stoptyping
+
+\subsection{Terminal Command}
+
+Terminal command to run the above files:
+\starttyping
+gvpr -c -f pretty.gv diagram.dot | \
+neato -Tpng > general.png
+\stoptyping
+
+\subsection{Output}
+
+\placefigure[]
+[fig:sampleGraph]
+{This is a sample graphviz output produced from the preceeding elements.}{\externalfigure[Appendix/general.png][frame=on, factor=fit]}
+
+\stopcomponent

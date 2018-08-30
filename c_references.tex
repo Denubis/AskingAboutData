@@ -1,0 +1,28 @@
+\startcomponent c_open
+\project project_thesis
+
+\chapter{References}
+
+This chapter contains two sets of references. In-text citations are sorted in text-appearance order and are intended to be used during reading. Works consulted are sorted in alphabetical order and are intended as an easily searchable list to explore my influences.
+
+In the in-text citations, works are numbered in the order they appear in the document, with repeat citations retaining the original number. DOIs are offered instead of hyperlinks where available (though both are clickable in the PDF version of this document) as a hedge against \quotation{bitrot} and broken links. 
+
+\page[yes]
+\section{In-Text Citations}
+
+\placepublications[criterium=text, style={\setupinterlinespace[line=14 pt] \tfx}, pubs=References]
+
+\page[yes]
+\section{Works Consulted}
+
+\unprotect
+%\def\withbrackets#1{}
+
+\setuppublications[alternative=apa]
+
+\placepublications[criterium=all,  style={\setupinterlinespace[line=14 pt] \tfx}, numbercommand=none]
+
+
+\protect
+
+\stopcomponent

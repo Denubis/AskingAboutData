@@ -1,0 +1,34 @@
+digraph G {
+	res  [label="Position 6"];
+	sup  [label="Position 92"];
+	acad [label="Noun 93 Position 92"];
+	code [label="Code"];
+	vis  [label="Software"];
+	man  [label="Position 40"];
+	
+	res -> sup [label="Selected Results\nData"];
+	sup -> res [label="Feedback\nInformation"];
+	res -> sup [label="Progress\nInformation"];
+	res -> sup [label="Concerns\nEmotions"];
+	sup -> res [label="Guidance\nKnowledge"];
+	sup -> res [label="Comparitive Results\nData"];
+	
+	acad -> sup [label="Discussion\nInformation", dir="both"];
+	res -> acad [label="Summary of Progress\nInformation"];
+	acad -> res [label="Directed Guidance\nKnowledge"];
+	acad -> res [label="Contexts\nData"];
+	
+	code -> acad [label="Results\nData"];
+	acad -> code [label="Inputs\nData"];
+	acad -> code [label="Model Theory\nKnowledge"];
+	
+	res -> vis [label="Results\nData"];
+	vis -> res [label="Picture\nData"];
+	vis -> res [label="Graphs\nData"];
+	
+	res -> man [label="Summary of Progress\nInformation"];
+	
+	
+//	sup -> acad [label="Discussion\nInformation"];
+}
+

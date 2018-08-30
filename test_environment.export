@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<!-- input filename   : test_environment  -->
+<!-- processing date  : Thu Apr  5 23:44:21 2012 -->
+<!-- context version  : 2011.05.18 18:04  -->
+<!-- exporter version : 0.20              -->
+
+<section detail='section' location='aut:1'>
+  <sectionnumber>1</sectionnumber>  
+  <sectiontitle>Survey Tabular Results</sectiontitle>  
+  <sectioncontent>
+Respondant 1 Respondant 2 Respondant 3 Respondant 4 Respondant 5 Respondant 6 Respondant 7 Respondant 8 Respondant 9 Respondant 10 Respondant 11 Respondant 12 Respondant 13 Respondant 14 Respondant 15 Respondant 16 Alice receives a letter from Bob.Other Information Data Other Information Information Information Information Other Information Data Information Information Information Information Data Alice receives a letter from Bob containing instructions on how to build a machine. Information Knowledge Knowledge Information Information Knowledge Information Information Information Knowledge Data Information Information Knowledge Knowledge Data Alice receives a letter from Bob containing a short story he has written. Information Other Information Data Knowledge Information Information Information Data Knowledge Data Information Information Knowledge Other Data Alice determines the locations for parts of a Rube Goldberg style machine to cook her breakfast. Information Information Information Information Data Information Information Knowledge Knowledge Information Information Knowledge Knowledge Information Knowledge Data Alice receives a letter from Bob. The letter is a time chart of what shows he has watched on TV for the last week. Data Data Information Data Data Data Information Information Information Knowledge Data Data Data Knowledge Data Data Bob receives an e-mail from Alice, it is a record of the daily temperatures outside her apartment for the last week. Data Data Data Data Data Data Data Information Data Knowledge Data Data Data Other Data Data Bob receives a flash drive from Alice. It contains mp3 music files. Information Data Data Data Data Data Data Information Data Other Data Data Information Information Other Data Bob attends a symphony with Alice and enjoys the live music. Other Other Data Other Data Other Other Data Data Knowledge Information Knowledge Other Knowledge Other Information Bob ignores the traffic noise outside the symphony. Data Other Data Other Other Information Other Knowledge Data Other Knowledge Data Information Data Other Information As Bob is mugged walking home, the mugger demands his wallet and watch. Information Other Information Data Data Information Information Information Information Information Data Information Information Data Information Information Charlotte finds a microfilm in a hollow coin, it contains a list of numbers and times about something unknown. Data Data Data Information Data Data Data Data Data Knowledge Data Data Data Information Other Information Charlotte finds a microfilm in a hollow coin, but cannot decipher the code. Data Information Data Information Data Data Data Data Information Data Data Information Data Data Other Information Charlotte finds the secret key to the code, and realizes it’s a letter for technical support to the spy’s handlers. Knowledge Knowledge Data Knowledge Data Knowledge Information Knowledge Information Information Data Information Information Other Knowledge Information Charlotte finds a microSD card in a hollow coin, it contains a planning program for something unknown. Information Data Information Information Knowledge Information Information Information Information Information Information Other Information Information Other Information Charlotte creates a statistical profile of a spy, to predict their actions. Knowledge Knowledge Information Knowledge Information Information Knowledge Knowledge Knowledge Knowledge Knowledge Information Knowledge Information Information Dave lectures to a classroom about database design. Information Knowledge Knowledge Knowledge Information Knowledge Knowledge Information Knowledge Knowledge Information Knowledge Knowledge Knowledge Information Dave grades quizzes from a relational algebra course. Information Data Data Information Information Information Information Information Knowledge Knowledge Data Data Data Data Information Dave discusses the reasons behind one of Eve’s incorrect answers. Knowledge Information Knowledge Knowledge Knowledge Information Knowledge Knowledge Information Knowledge Information Information Information Information Information Dave writes a survey asking people to describe their impressions of a user interface. Other Data Information Information Information Information Information Information Information Information Knowledge Information Information Data Information Dave saves an empty word document in preparation for his later work on a conference paper. Information Other Data Data Other Data Other Information Information Data Other Information Data Other Information Eve writes poetry describing the winter wind. Information Other Information Other Information Information Information Knowledge Information Information Information Other Information Other Information Eve interviews students for the campus TV station and gets short quotes for her topic. Information Other Data Information Data Information Knowledge Information Information Information Data Information Information Data Information Eve looks at the weather report and decides to bring an umbrella. Information Information Data Information Information Data Information Knowledge Knowledge Knowledge Information Information Data Information Information Eve receives a letter from an ex-boyfriend, telling her to take her stuff back. Information Other Information Information Information Information Information Information Information Knowledge Information Information Information Information Information Frank selects which instrument readings to include in his experiment. Knowledge Other Knowledge Knowledge Knowledge Other Other Knowledge Data Knowledge Knowledge Information Information Knowledge Information Frank designs an experiment. Knowledge Other Information Knowledge Knowledge Other Other Knowledge Data Knowledge Knowledge Knowledge Knowledge Information
+  
+    <section detail='chapter' location='aut:2'>
+      <sectionnumber>1</sectionnumber>  
+      <sectiontitle>References</sectiontitle>    
+      <sectioncontent>
+        <section detail='chapter' location='aut:3'>
+          <sectionnumber>2</sectionnumber>  
+          <sectiontitle>Works Consulted</sectiontitle>  
+          <sectioncontent>
+Ackoff, R. L. (1989). From data to wisdom. Journal of Applied Systems Analysis, 16(1), 3 -- 9.
+Ackoff, R. L., Addison, H. J. and Bibb, S. (2007). Management F-Laws. Triarchy Press.
+Alexander, J. and Weinberg, J. M. (2007). Analytic epistemology and experimental philosophy. Philosophy Compass, 2(1), 56--80.
+Anonymous (2011). datum, n.. In Oxford English Dictonary Online .
+Atkin, A. (2011). Peirce’s theory of signs. In Zalta, E. N., editor, The Stanford Encyclopedia of Philosophy. Winter 2011 edition.
+Ballsun-Stanton, B. (2010). Exploring the philosophy of data. Technical Report BlueScope Steel.
+Ballsun-Stanton, B. and Bunker, D. (2009). Philosophy of data (pod) and its importance to the discipline of information systems. In Americas Conference on Information Systems (AMCIS) 2009 .
+Barnes, J. (1983). Graph theory in network analysis. Social Networks, 5(2), 235--244.
+Baudrillard, J. (1994). Simulacra and Simulation, volume 50 of The Body, in theory. University of Michigan Press.
+Berger, P. L. and Luckmann, T. (1967). The social construction of reality: A treatise in the sociology of knowledge. Harmondsworth, Middlese: Penguin Books.
+Bernstein, J. H., Jacob, E. K. and Kwasnik, B. (2009). The data-information-knowledge-wisdom hierarchy and its antithesis. Journal of Information Science, pp. 68--75.
+Borgman, C. L. (1986). The user’s mental model of an information retrieval system: an experiment on a prototype online catalog. International Journal of Man-Machine Studies, 24(1), 47--64.
+Boulos, M. N. K., Hetherington, L. and Wheeler, S. (2007). Second life: an overview of the potential of 3-d virtual worlds in medical and health education.. Health information and libraries journal, 24(4), 233--45.
+Boyd, D. (2010). Social steganography: Learning to hide in plain sight. In apophenia .
+Brown, J. S. and Adler, R. P. (2008). Minds on fire: Open education, the long tail, and learning 2.0. Educause review, 43(1), 16--32.
+Bruffee, K. A. (1986). Social construction, language, and the authority of knowledge: A bibliographical essay. College English, 48(8), 773.
+Burge, J. E. (1998). Knowledge elicitation tool classification. .
+Carmel, E., Whitaker, R. D. and George, J. F. (1993). Pd and joint application design: a transatlantic comparison. Communications of the ACM, 36(6), 40--48.
+Chandler, D. (2002). Semiotics for Beginners: Strengths. 1st edition London: Routledge.
+Chesterton, G. K. (1996). Heretics. Online edition Project Gutenberg.
+Choi, N., Song, I.-Y. and Han, H. (2006). A survey on ontology mapping. ACM Sigmod Record, 35(3).
+Chrisman, N. C. (1999). Trading zones or boundary objects: Understanding incomplete translations of technical expertise. In Social Studies of Science Annual Meeeting, pages 28--31.
+Codd, E. F. (1990). The relational model for database management: version 2. Boston: Addison-Wesley Longman Publishing Co., Inc..
+Cohen, M. and Bacdayan, P. (1994). Organizational routines are stored as procedural memory: Evidence from a laboratory study. Organization Science, pp. 554--568.
+ Collins, H., Evans, R. and Gorman, M. (2007). Trading zones and interactional expertise. Studies In History and Philosophy of Science Part A, 38(4), 657--666.
+Cossette, P. and Audet, M. (1992). Mapping of an idiosyncratic schema. Journal of Management Studies, 29(3), 325--347.
+Cunningham, D. J. (1992). Beyond educational psychology: Steps toward an educational semiotic. Educational Psychology Review, 4(2), 165--194.
+Czarniawska, B. and Mazza, C. (2003). Consulting as a liminal space. Human Relations, 56(3), 267--290.
+Daniels, K., de Chernatony, L. and Johnson, G. (1995). Validating a method for mapping managers’ mental models of competitive industry structures. Human Relations, 48(9), 975--991.
+Dreyfus, H. L. (2004). A companion to Heidegger. Oxford: Blackwell.
+Dubois, A. and Gadde, L.-E. (2002). Systematic combining: an abductive approach to case research. Journal of Business Research, 55(7), 553--560.
+Eden, C. (1992). On the nature of cognitive maps. Journal of management studies, 29(3), 261--265.
+Ehn, P. (1993). Scandinavian design: On participation and skill. In Schuler, D. and Namioka, A., editors, Participatory design: principles and practices, pages 319. Hillsdale, NJ.
+Festinger, L. (1957). A theory of cognitive dissonance. Stanford: Stanford University Press.
+Floridi, L. (1995). From data to semantic information. Entropy, 5(2), 125--145.
+Floridi, L. (2002). On the intrinsic value of information objects and the infosphere. Ethics and Information Technology, 4(4), 287--304.
+Floridi, L. (2004). Outline of a theory of strongly semantic information. Minds and Machines, 14(2), 197--221.
+Floridi, L. (2005). Is semantic information meaningful data?. Philosophy and Phenomenological Research, 70(2), 351--370.
+Frodeman, R. and Rowland, J. (2009). De-disciplining the humanities. ALIF, 29(Spring), 62--74.
+Galison, P. (1997). Image and logic: A material culture of microphysics. Chicago: University of Chicago Press.
+Garfield, E. (1980). Is information retrieval in the arts and humanities inherently different from that in science? the effect that isi’s citation index for the arts and humanities is expected to have on future scholarship. The Library Quarterly, 50(1), 40 -- 57.
+Gorman, M. E. (2002). Levels of expertise and trading zones: A framework for multidisciplinary collaboration. Social Studies of Science, 32(5-6), 933--938.
+Gray, R. L. (2003). Brief historical review of the development of the distinction between data and information. In Ross, J. and Galletta, D., editors, Proceedings of the 9th Americas Conference on Information Systems, pages 2843--2849. Tampa, Florida.
+Greene, J. C. (1987). Stakeholder participation in evaluation design: Is it worth the effort?. Evaluation and Program Planning, 10(4), 379--394.
+Harper, D. (2011). Data. In Online Etymology Dictionary .
+Howard, C. (2011). Philosophy and the development of a biologically derived artificial intelligence:an examination of cognitive and neurological methodology. Master’s thesis, University of New South Wales.
+Hu, W. and Feng, J. (2005). Data and information quality: an information-theoretic perspective. Computing and Information Systems, 9(3), 32--47.
+ Hurley, S. E., Saunders, T. M., Nivas, R., Hertz, A. and Reynolds, P. (2003). Post office box addresses: a challenge for geographic information system-based studies.. Epidemiology (Cambridge, Mass.), 14(4), 386--91.
+James, W. (2007). Pragmatism: A New Name for Some Old Ways of Thinking. Minneapolis: Filiquarian Publishing, LLC..
+Jelinek, M. and Litterer, J. (1994). Toward a cognitive theory of organizations. Advances in managerial cognition and organizational information processing, 5, 3--41.
+Jones, C. (2007). Rediscovering communication. In UX matters .
+Jones, R. (2006). Internet Slang Dictionary. Lulu.com.
+Kelly, G. (1955). The psychology of personal constructs. New York: Norton.
+Kipping, M. and Armbruster, T. (2002). The burden of otheress: Limits of consultancy intervention in historical case studies. In Management consulting: emergence and dynamics of a knowledge industry, pages 267. Oxford.
+Knobe, J. (2007). Experimental philosophy. Philosophy Compass, 2(1), 81--92.
+Lakoff, G. and Johnson, M. (1981). Metaphors we live by. Chicago: The University of Chicago Press.
+Larsen, P. G., Plat, N. and Toetenel, H. (1994). A formal semantics of data flow diagrams. Formal aspects of Computing, 3(1).
+Latour, B. (2005). Reassembling the social: an introduction to actor-network-theory. Oxford: Oxford University Press.
+Leary, M. R. and Tangney, J. P. (2005). Handbook of self and identity. New York: Guilford Press.
+Levin-Rozalis, M. (2008). Searching for the unknowable: A process of detection—abductive research generated by projective techniques. International Journal of Qualitative …, 3(2).
+Maier, N. R. F. (1970). Problem Solving and Creativity in Individuals and Groups. Brooks/Cole Pub. Co..
+Markus, H. (1977). Self-schemata and processing information about the self.. Journal of Personality and Social Psychology; Journal of Personality and Social Psychology, 35(2), 63.
+Marshall, P., Price, S. and Rogers, Y. (2003). Proceeding of the 2003 conference on interaction design and children - idc ’03. In , pages 101.
+McNab, F. and Klingberg, T. (2008). Prefrontal cortex and basal ganglia control access to working memory.. Nature neuroscience, 11(1), 103--7.
+Medin, D. L. and Wattenmaker, W. D. (1989). Concepts and conceptual development: ecological and intellectual factors in .... In Concepts and conceptual development: ecological and intellectual factors in ..., pages 317.
+Nejdl, W., Tochtermann, K., Klamma, R., Spaniol, M. and Cao, Y. et al. (2006). Innovative Approaches for Learning and Knowledge Sharing, volume 4227 of Lecture Notes in Computer Science. Berlin, Heidelberg: Springer Berlin Heidelberg.
+Norman, D. A. (1999). Affordance, conventions, and design. interactions, 6(3), 38--43.
+Norman, D. A. (2002). The design of everyday things. New York: Basic Books New York.
+Norman, D. A. (2005). Human-centered design considered harmful. interactions, 12(4), 14.
+Noy, N. F. (2004). Semantic integration. ACM SIGMOD Record, 33(4), 65.
+Orlikowski, W. and Gash, D. (1994). Technological frames: making sense of information technology in organizations. ACM Transactions on Information Systems (TOIS), 12(2), 174--207.
+ Orlikowski, W. J. and Robey, D. (1991). Information technology and the structuring of organizations. Information Systems Research, 2(2), 143--169.
+Owen, W., Landry, J. P. and Mckinney, D. (2000). Introducing information technology students to a new major : The role of an introductory course sequence. In The Proceedings of the Information Systems Education Conference 2000, pages §117. Philadelphia.
+Pesce, M. (2011). The new toolkit. In Blackwell Companion to New Media Dynamics .
+Phillips, J. (2011). Experimental philosophy. In .
+Pondy, L. R. (1967). Organizational conflict: Concepts and models. Administrative Science Quarterly, 12(2), 296--320.
+Popper, K. R. (1959). The logic of scientific discovery. Hutchinson &amp; Co.
+Pratchett, T., Stewart, I. and Cohen, J. S. (2002). The science of Discworld. Ebury.
+Rasmussen, J. (1987). Cognitive control and human error mechanisms. New technology and human error, pp. 53--61.
+Reffay, C. and Chanier, T. (2002). Social network analysis used for modelling collaboration in distance learning groups. In Intelligent Tutoring Systems, pages 31--40.
+Roy, D. (2008). A mechanistic model of three facets of meaning. In Vega, Glenberg and Graesser, editors, Symbols, Embodiment, and Meaning .
+Schuler, D. and Namioka, A. (1993). Participatory design: principles and practices. Routledge.
+Scott, J. (1988). Social network analysis. Sociology, 22(1), 109--127.
+Shannon, C. E. and Weaver, W. (1949). The mathematical theory of communication. The University of Illinois Press.
+Shortis, T. (2001). The language of ICT: information and communication technology. Routledge.
+Shultz, T. R. and Lepper, M. R. (1996). Cognitive dissonance reduction as constraint satisfaction.. Psychological Review, 103(2), 219--240.
+Smith, Y. (2011). Mers exposed ii: General counsel tells whoppers in testimony before virginia house. In Naked Capitalism .
+Snow, C. P. (1993). The two cultures. Cambridge University Press.
+Sosa, E. (2006). Experimental philosophy and philosophical intuition. Philosophical Studies, 132(1), 99--107.
+Sperber, D. and Wilson, D. (1995). Relevance: communication and cognition. Wiley-Blackwell.
+Spolsky, J. (2008). my style of servant leadership. In Inc. .
+Stake, R. E. (1995). The art of case study research. SAGE.
+Star, S. L. and Griesemer, J. R. (1989). Institutional ecology, `translations’ and boundary objects: Amateurs and professionals in berkeley’s museum of vertebrate zoology, 1907-39. Social Studies of Science, 19(3), 387--420.
+Stone, C. A. (1998). The metaphor of scaffolding: Its utility for the field of learning disabilities. Journal of Learning Disabilities, 31(4), 344--364.
+Storey, M. A., Fracchia, F. D. and Müller, H. A. (1999). Cognitive design elements to support the construction of a mental model during software exploration. Journal of Systems and Software, 44(3), 171--185.
+Sun, S. X., Zhao, J. L., Nunamaker, J. F. and Sheng, O. R. L. (2006). Formulating the data-flow perspective for business process management. Information Systems Research, 17(4), 374--391.
+Tan, F. and Hunter, M. (2002). The repertory grid technique: A method for the study of cognition in information systems. MIS Quarterly, pp. 39--57.
+ Thagard, P. (2004). Computing in the philosophy of science. In Floridi, L., editor, The Blackwell guide to the philosophy of computing …, pages 371.
+Tuomi, I. (1999). Proceedings of the 32nd annual hawaii international conference on systems sciences. 1999. hicss-32. abstracts and cd-rom of full papers. In , pages 12.
+Voloshinov, V. N. (1929). Marxism and the Philosophy of Language. Harvard Univerity Press.
+Voloshinov, V. N. (1994). Language and ideology. In Language and literacy in social practice: a reader, pages 271.
+Voss, J. (2011). Revealing digital documents. concealed structures in data.
+Wand, Y. and Weber, R. (2002). Research commentary: Information systems and conceptual modeling?a research agenda. Information Systems Research, 13(4), 363--376.
+Weick, K. (2000). Making sense of the organization, volume 1. JOHN WILEY PROFESSIO.
+Wetherbe, J. C. (1991). Executive information requirements: Getting it right. MIS Quarterly, 15(1), 51.
+Wiener, N. (1950). Cybernetics. Bulletin of the American Academy of Arts and Sciences, 3(7), 2.
+Wilson, G. and Herndl, C. G. (2007). Boundary objects as rhetorical exigence: Knowledge mapping and interdisciplinary cooperation at the los alamos national laboratory. Journal of Business and Technical Communication, 21(2), 129--154.
+Wilson, J. and Rutherford, A. (1989). Mental models: Theory and application in human factors. Human Factors: The Journal of the Human Factors and Ergonomics Society, 31(6), 617--634.
+Yudkowsky, E. (2011). A day of very low probability. In Harry Potter and the Methods of Rationality .
+Zins, C. (2007b). Classification schemes of information science: Twenty-eight scholars map the field. Journal of the American Society for Information Science and Technology, 58(5), 645--672.
+Zins, C. (2007d). Conceptions of information science. Journal of the American Society for Information Science and Technology, 58(3), 335--350.
+Zins, C. (2007c). Conceptual approaches for defining data, information, and knowledge. Journal of the American Society for Information Science and Technology, 58(4), 479--493.
+Zins, C. (2007a). Knowledge map of information science. Journal of the American Society for Information Science and Technology, 58(4), 526--535. 
+          </sectioncontent>
+        </section>
+      </sectioncontent>
+    </section>
+  </sectioncontent>
+</section>

@@ -1,0 +1,6 @@
+return {
+ ["files"]={ "whatever.xhtml" },
+ ["identifier"]="6a5a4b34-4231-8073-70b3-62416eec7434",
+ ["name"]="project_thesis",
+ ["root"]="whatever.xhtml",
+}

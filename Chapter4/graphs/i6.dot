@@ -1,0 +1,18 @@
+digraph G{
+	Auth [label="Lecture  Author"];
+	DB [label="Production  Database"];
+	Books [label="Books"];
+	Draw [label="Noun 89"];
+	Lect [label="Lecturer"];
+	Oper [label="Position 90"];
+	
+	Auth -> DB [label="Fact-finding\nKnowledge"];
+	DB -> Auth [label="Results\nData"];
+	Books -> Auth [label="Theories & Experiences\nKnowledge"];
+	Draw -> Auth [label="Drawing\nInformation"];	
+	Auth -> Draw [label="Drawing Request\nData"];
+	Auth -> Lect [label="Lecture Material\nData & Information & Knowledge"];
+	Lect -> Oper [label="Technical Knowledge\nKnowledge"];
+	
+}
+

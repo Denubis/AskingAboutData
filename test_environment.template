@@ -1,0 +1,29 @@
+/* template for file test_environment.export */
+
+/* category: section */
+
+section[detail=chapter] {
+    display: block ;
+}
+
+section[detail=section] {
+    display: block ;
+}
+
+/* category: sectioncontent */
+
+sectioncontent {
+    display: block ;
+}
+
+/* category: sectionnumber */
+
+sectionnumber {
+    display: inline ;
+}
+
+/* category: sectiontitle */
+
+sectiontitle {
+    display: inline ;
+}

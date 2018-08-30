@@ -1,0 +1,24 @@
+% runtime options files (command line driven)
+\unprotect
+% feedback and basic job control
+% handy for special styles
+\startluacode
+document = document or { }
+document.arguments={
+}
+document.files={
+ "c_appendix_survey.tex",
+}
+\stopluacode
+% process info
+\setupsystem[inputfile=c_appendix_survey.tex]
+\setupsystem[\c!n=1,\c!m=1]
+% modes
+% options (not that important)
+\startsetups *runtime:options
+\stopsetups
+% styles and modules
+\startsetups *runtime:modules
+\stopsetups
+% done
+\protect \endinput

@@ -1,0 +1,50 @@
+digraph G {
+	//Interview 2 9-Apr
+	DEV  [label="Noun 1  Developer"];
+	DSS  [label="Noun 1"];
+	PAM  [label="Noun 5"];
+	BF   [label="Noun 2"];
+	CRPC [label="Position 8"];
+	DPDS [label="Noun 17"];
+	CRSC [label="Position 9"];
+	BFPE [label="Position 22"];
+	BFPM [label="Position 26"];
+	
+	DEV -> DSS [label="Code\nKnowledge"];
+	DSS -> DEV [label="Textual Advice\nKnowledge"];
+	DSS -> CRPC [label="Textual Advice\nKnowledge"];
+	DSS -> CRSC [label="Textual Advice\nKnowledge"];
+	
+	PAM -> DSS [label="Noun 5 Real Values\nData"];
+	PAM -> DSS [label="Noun 5 Calculated values\nData"];
+	
+	CRPC -> PAM [label="Derived Values\nData"];
+	PAM -> CRPC [label="Noun 5 Calculated values\nData"];
+	PAM -> CRPC [label="Noun 5 Real Values\nData"];
+
+	PAM -> CRSC [label="Noun 5 Calculated values\nData"];
+	PAM -> CRSC [label="Noun 5 Real Values\nData"];
+
+	CRPC -> BF [label="Setpoints\nData"];
+	BF -> PAM [label="Real Values\nData"];
+	
+	CRPC -> DPDS [label="Derived Values\nData"];
+	CRPC -> DPDS [label="Real Values\nData"];
+	
+	CRSC -> DPDS [label="Derived Values\nData"];
+	CRSC -> DPDS [label="Real Values\nData"];
+	
+	BFPE -> CRPC [label="Standard Operating Procedure\nKnowledge"];
+	BFPE -> CRPC [label="How to use\nKnowledge"];
+	BFPE -> CRPC [label="Daily Targets\nInformation"];
+	BFPE -> DEV [label="Standard Operating Procedure\nKnowledge"];
+	BFPM -> BFPE [label="Monthly Target\nKnowledge"];
+	BFPM -> DEV [label="Production Philosophy\nKnowledge"];
+	BFPE -> BFPM [label="Process Condition Health\nInformation"];
+	CRPC -> CRSC [label="Experience\nKnowledge"];
+	CRPC -> CRSC [label="Talk\nInformation"];
+	BFPM -> BFPE [label="Production Conditions\nKnowledge"];
+}
+
+
+

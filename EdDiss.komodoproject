@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="b27e0a48-817a-4ca1-add4-395b518a3077" kpf_version="5" name="EdDiss.komodoproject">
+<livefolder id="2cd7006b-5587-4071-b9ea-e83ca8cfc39b" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="Chapter1" url="Chapter1">
+</livefolder>
+<livefolder id="2cf495e7-1076-490f-8738-8e24a01640bd" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="Chapter4" url="Chapter4">
+</livefolder>
+<livefolder id="7c4ab319-9718-4ded-9096-4837f58e9c2b" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="Chapter3" url="Chapter3">
+</livefolder>
+<file id="994eb41b-71d5-4882-9ef3-7f81161aeae5" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="c_conclusion.tex" url="c_conclusion.tex">
+</file>
+<livefolder id="a2ce9abf-aaab-4d04-8e32-200ace958b4d" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="Chapter2" url="Chapter2">
+</livefolder>
+<livefolder id="a42a843e-28d6-4086-91dd-4fa22aef6f42" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="Chapter7" url="Chapter7">
+</livefolder>
+<file id="bb07b970-17ca-487e-a57b-486e2a5cb6d5" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="c_open.tex" url="c_open.tex">
+</file>
+<livefolder id="c9e8c004-cc4d-4b9f-b786-1847bccd4db5" idref="b27e0a48-817a-4ca1-add4-395b518a3077" name="Appendix" url="Appendix">
+</livefolder>
+<preference-set idref="b27e0a48-817a-4ca1-add4-395b518a3077">
+  <string id="import_exclude_matches">*~;#*;CVS;*.bak;*.pyo;*.pyc;.svn;.git;.hg;.bzr;.DS_Store;.komodotools;.tools;__pycache__;hg-checklink-*;hg-checkexec-*</string>
+  <string id="import_include_matches">*.tex</string>
+</preference-set>
+</project>

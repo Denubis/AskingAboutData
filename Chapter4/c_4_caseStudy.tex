@@ -1,0 +1,409 @@
+\startcomponent c_4_caseStudy
+\product prd_Chapter4
+\project project_thesis
+
+This chapter presents redacted but raw transcripts from the interviews I conducted at the company. The \SDFN\ is a novel methodology. As an untested methodology, and as the experiments and “analysis” were both conducted by me, the transcripts are a useful check for the reader. I appreciate the great length of these transcripts and offer excerpts in my reflections in the next chapter for readers not interested in excruciating detail.
+
+The excruciating detail is necessary, however, for readers interested in potentially implementing my methodology. Not only do the raw transcripts provide a second perspective on my methodology, but they demonstrate my elicitation techniques through the act of recording rather than my synthesized instructions as found in the previous chapter.
+
+Fundamentally, the success or failure of this elicitation method must be decided by the reader, not simply through my analysis of the results I obtained. This chapter, therefore, occurs before my reflections in an attempt to provide the reader an unbiased look at the material which informs my subsequent analysis.
+
+The redaction process sought to eliminate all identifiable nouns, some verbs, and most positions from the text. All of these items have been replaced by curly braces, a descriptor like noun, or verb, and a number. The number is consistent for every instance of that term, allowing the reader to note patterns of terms without necessarily needing the initial terms themselves. Each diagram has undergone the same redaction process as the interviews, though their quality may suffer significantly from the reduced page size. 
+
+Each interview is ordered by the rough groupings of the reflections chapter, with interviews taking the same order in each chapter. This ordering is intended to support readers flipping between chapters to check assertions or their hunches against my reflections. This order, however, is not the chronological order of the interviews, as that is being intentionally obscured to help protect anonymity.
+
+\section{Interview 1}
+
+This interview is presented in detail with annotations as a reflective case study. The technical pilot interview was the first interview conducted, and it served two purposes: to vet the equipment, and to provide a test of the methodology. After exposure to my methodology, my advocate could then use their experiences to persuade their co-workers to participate in my interview.  Due to the more public nature of this interview, as well as the work with uncertain equipment, my advocate and I chose to work with a harmless topic: our mutual participation in an online game.
+
+\subsection{Collected Drawings}
+
+Please see the next page. The drawings are presented as full-page size for optimum readability.
+
+\placefigure[]
+[fig:bubble1]
+{A sample entity dictionary. The participant was brainstorming possible entities for us to explore.}
+{\externalfigure[Chapter4/bubble1.png][factor=fit,frame=on]}
+\placefigure[]
+[fig:bubble3]
+{The first \quotation{\SDFN\ diagram.} Note how each flow is categorized below the flow and labeled above the flow, showing the necessity for curved flows. }
+{\externalfigure[Chapter4/bubble3.png][factor=fit,frame=on]}
+\placefigure[]
+[fig:bubble4]
+{Another \SDFN\ diagram. Note the presence of wormholes.}
+{\externalfigure[Chapter4/bubble4.png][factor=fit,frame=on]}
+
+\subsection{Annotated Transcript}
+As this was the technical process, \in{figure}[fig:bubble1] illustrates the creation of an entity dictionary. As we can see, the entities are just sketchy bubbles with entity names in them, which may or may not appear in later cases.
+
+The following is my explanation of the process to the participant:
+
+\startextract
+Interviewer: Well, we'll be getting back to basically this question after we build the data flow diagrams. This is something to let simmer in your subconscious.
+
+Participant: Yeah it would... it's something that we should discuss more. Yeah, there's context of knowledge, and there's context of data. Maybe in a superficial analysis they don't meld. But if you think about it more deeply, you go, 'Oh, hang on.' It's not just making arbitrary distinction that this is knowledge and this is data. Think about, \quotation{Why do I consider that knowledge? Why do I consider that data?} That really is knowledge because its stuff I know not just there You're doing the Ph.D.
+
+Interviewer: Well, yes, but I'm doing the Ph.D. based on what you tell me. So, when we're building this data flow diagram. What I'm going to be doing is two symbols. Well, we're going to be making circle symbol and a circle symbol will have some sort of designator that is important for you in it. It represents a person, or an entity, that communicates, transmits, verbs, data. Whatever you consider data to be.
+
+Participant: Does that include knowledge?
+
+Interviewer: Does it include knowledge?
+
+Participant: Point Taken.
+
+Interviewer: And then are going to be arcing lines sometimes with an arrow on it to another entity. The arcing lines we'll label with whatever you would classify the data/knowledge/information, whatever term you want to do. It's, for example, you said that there was a 'fail res'. As an example I'm not sure you would use this, one transmission of data would be you to the server, res the fort. We would label this line, 'you, server, rez fort.' And if you want to, you could say this is data, or that this isn't data, this is information. Whatever you think is important to define about that transmission. We'll label that line as.
+
+Participant: Oh, so are they different classifications?
+
+Interviewer: There are whatever classifications you want. What I'm going to be doing here, is looking at how you classify these things, and what small groups you identify and how you think that other people classify these things. And then compare it to how other people classify the things, and look at how the perceptions shift from person to person. There's no detail too trivial for this discussion. Because I'll be using it to look at what other people will be doing.
+\stopextract
+
+In this, the theory of the \SDFN\ is not deeply explored. The important thing to do before the start of the process is to gently explain the process and diagramming techniques that will be employed in the rest of the interview. As the participants tend to be unsure at this stage, it is also important to avoid giving them definitions of data, information, or knowledge as they may be looking for specific cues to suggest which construction of data to use.
+
+In this \SDFN, I did not ask the participant if they wanted to do an entity dictionary, I just started with the process of articulating the entities. It is acceptable if the participant is chatty during this process. Not only will this help to define the universe of discourse, and establish them in their own minds as subject-matter experts, but also the process of being chatty is allowing them to slip more deeply into the role they are discussing.
+
+\startextract
+Interviewer: This is literally trying to render how you perceive the game. ... We'll start with a circle. How would you like to label this circle? What do you think is a representation of you? We can write you here, we can write the computer here.
+
+Participant: We can talk about me as a Clan Master. I'd put that one there. That's to start with. I'd like to have another one, for my different roles. Cause I'm also a player of the game. Which is different from their role as a Clan Master for sure. Because they're often in conflict.
+
+Interviewer: What other entities can we identify in general?
+
+Participant: Across the whole game?
+
+Interviewer: Well, that will transmit data, whatever that is, or information or knowledge. When I say data, feel free to assume I'm also talking about information or knowledge if that helps.
+
+Participant: That's good. Cause often, if you get too transfixed on your own view of data, jeez, there's lots. Like the developers. You've got individuals within there. Now, I guess this is when the granularity comes out, because you can talk about other clan masters as a circle. But they're individuals amongst themselves. So I can identify. Within that, you have the concept of a clan master. There's [Active Clan Master 1] but then they have other concepts such as --
+
+Interviewer: [Active Clan Master 1] is a person, yes?
+
+Participant: Person, yeah. You've got active CMs, which [Active Clan Master 1] can be part of this group. And you've got inactives.
+
+Interviewer: Inactive CMs?
+
+Participant: Yeah. So there's individuals, but within there, you could break that. And then say: "Well, look [Active Clan Master 1]'s here, or something like that. And [Clan Master 2]'s here. We'll often talk about semi-active as well. There's me as a thing and there's also Os within, and break it down like that.
+
+Interviewer: So what we'll want to do here is create some sort of representation so that you can talk about classes of people. Or individually people if you feel that they're important to be talked about as an individual. So, from this, you can say, \quotation{Well, this is a communication from me, to the active Clan Masters.} \quotation{And I do this sort of communication.} \quotation{Or, this is a communication from me to [Active Clan Master 1].} Whatever represents what you're doing.
+
+Participant: Look, cause sometimes -- Well, the information we can talk about, what, information, data? is transmitted. That's why I sort of did them separately. Cause I want to transmit me and [Active Clan Master 1] will talk about something differently than we'll talk about with Os here. That can be a slightly different form of communication with these and with that. You deal with the individual differently even in a group.
+
+Interviewer: And that's what I'm trying to tease out here. Thank you. We've got you as a player, you as a clan master, the Devs. Right now, we're just going to make bubbles and we'll take these bubbles to a third page when we're drawing lines. This is brainstorming.
+
+Participant: We'll keep it sort of then at a higher level.
+
+Interviewer: Whatever you want to do, if you want me to draw it, I'll draw it. If you want to draw it, go for it.
+
+Participant: Nah, you might as well do it. So there's other CMs then, as part of the clan. And, I'll use that term to classify all the people that can rez the fort, per se.
+
+Interviewer: Okay, so you define Clan Master as someone who's able to rez the fort?
+
+Participant: Well, not really. But I'll group them together. There's what we call Martini admirals in [Clan] which aren't Clan Masters per se, but they have almost the same power as a clan Master. They can't be kicked. But I'll group them together. Because they're really, as you know in [Interviewer's Clan]. There's either those at the top and there's the rest of the players. So I'll call that other clan masters. And then there's other players. That's probably an easier, higher level distinction up there. And the next natural bubble is \quotation{other clans.}
+\stopextract
+
+The other aspect of the \SDFN\ that I was teaching the participant about here was the appropriate scope of an entity as well as the desired granularity of their universe of discourse, as it is bounded by both scope and detail: only so many actions are of interest, and some actions are too trivial to diagram.
+
+The mistakes of  \in{figure}[fig:bubble2] illustrate the participant demonstrating a misunderstanding of the \SDFN, drawing their own hierarchy of authority within their organization. The creation of these side artifacts as part of the entity diagram is acceptable, especially as a way of pinpointing desired levels of granularity in entities. Participants should not think of the \SDFN\ as a hierarchy.
+
+The start of the \SDFN\ can be quite subtle. In  \in{figure}[fig:bubble3], the rezzing the fort \SDFN\ began as a \quotation{walk me through the process:}
+
+\startextract
+Participant: So the next would be -- Maybe if I described the process ...
+
+Interviewer: Walk me through the process.
+
+Participant: Well, this is the case. I say \quotation{It's time clan war.} This is where I bring in the extra bubbles.
+
+Interviewer: Let's trace this and see where we get off these bubbles from the process.
+
+Participant: We're at clan war. \quotation{I want to rez the fort.} A command to rez the fort, it sends me back. Now, I guess to introduce the other bubble here as other clan members.
+
+Interviewer: So, we're going to say internal clan members? Can we say other than members because that conflicts with clan master?
+
+Participant: Clan Players?
+
+Interviewer: Players. ICP.
+
+Participant: I'll leave you with the acronyms. I tell them something now as well.
+
+Interviewer: Now, when you tell them something.
+
+Participant: There's a lot. That's a really detailed line between us and
+
+Interviewer: Do we want to multiple lines?
+
+Participant: Yeah. That's cool What we're dealing with at the moment. I'm going through the process of rezzing the fort, which is a common thing we want to do.
+
+Interviewer: So shall we label this rezzing the fort?
+
+Participant: So I'm telling them, I'm sending them information. That they can now war. That they can start.
+
+Interviewer: And so this is a what? Is this a status, is this a command, is this something else?
+
+Participant: It's information because it does require context. But it's like a status it's saying: \quotation{you can now war. We can start fighting.}
+
+Interviewer: So it's a status. What other flows do you have to the internal clan players?
+
+Participant: Apart from that? We obviously maintain that they're sending stuff back to me.
+
+Interviewer: What are they doing there?
+
+Participant: The line going back. They're sending me, also status updates. Whether they're ready to play, whether they're there. How much AP they have and things like that.
+
+Interviewer: And they're sending you these as?
+
+Participant: Textual information.
+
+Interviewer: So it's text information?
+
+Participant: Received via MSN.
+
+Interviewer: Do we want to have MSN here or is MSN not at this level?
+
+Participant: No, MSN is at that level. I'd say it is. I see MSN as -- it's true, these would in essence, I don't see them as MSN. MSN is a like a tool or a spanner. As an intermediary because I send it here (MSN bubble) and then to there (Player bubble.) And that is true because I don't talk directly to them, per se.
+\stopextract
+
+I start by exploring the entities that we described in the entity diagram along with a process that has come about out of small talk. The process of diagramming a single process is about the right complexity for an \SDFN. As we can see, the advent of a second \SDFN\ in Case-4 meant that the process of \quotation{rezzing the fort} was a little too simple. It costs nothing to make a second diagram if there is sufficient time remaining.
+
+The other important element is the requirement of asking questions. The point of the interview is to tease out the understanding of the participant, and to do that, they have to keep talking. Open questions, confirmations, and other prompts keep them talking without guiding down them any specific direction.
+
+\startextract
+Interviewer: So what we'll want to do here is create some sort of representation so that you can talk about classes of people. Or individually people if you feel that they're important to be talked about as an individual. So, from this, you can say, "Well, this is a communication from me, to the active Clan Masters." "And I do this sort of communication." "Or, this is a communication from me to [Active Clan Master 1]." Whatever represents what you're doing.
+
+Participant: Look, cause sometimes -- Well, the information we can talk about, what, information, data? is transmitted. That's why I sort of did them separately. Cause I want to transmit me and [Active Clan Master 1] will talk about something differently than we'll talk about with Os here. That can be a slightly different form of communication with these and with that. You deal with the individual differently even in a group.
+
+Interviewer: And that's what I'm trying to tease out here. Thank you. We've got you as a player, you as a clan master, the Devs. Right now, we're just going to make bubbles and we'll take these bubbles to a third page when we're drawing lines. This is brainstorming.
+
+Participant: We'll keep it sort of then at a higher level.
+
+Interviewer: Whatever you want to do, if you want me to draw it, I'll draw it. If you want to draw it, go for it.
+
+Participant: Nah, you might as well do it. So there's other CMs then, as part of the clan. And, I'll use that term to classify all the people that can rez the fort, per se.
+
+Interviewer: Okay, so you define CM as someone who's able to rez the fort?
+
+Participant: Well, not really. But I'll group them together. There's what we call MA in [Clan] which aren't Clan Masters per se, but they have almost the same power as a clan Master. They can't be kicked. But I'll group them together. Because they're really, as you know in [Interviewer's Clan]. There's either those at the top and there's the rest of the players. So I'll call that other clan masters. And then there's other players. That's probably an easier, higher level distinction up there. And the next natural bubble is "other clans."
+
+Interviewer: So I've got other clan players, and then other clans?
+
+Participant: Um. No, I would put them together, so just other clans.
+
+Interviewer: What about other clan masters? Or is that other clans?
+
+Participant: I would put them as just other clans at the moment.
+
+Interviewer: What about non-clan players? Are they relevant to this?
+
+Participant: No, they're not relevant.
+
+Interviewer: Is facebook relevant to this?
+
+Participant: Yes it is actually.
+
+Interviewer: And I will absolutely want to why you think that.
+
+Participant: Yeah, that's interesting, maybe for our future wrap-up discussion.
+
+Interviewer: So we've got FB, we've got other clans, we've got other players.
+
+Participant: So that's other clan members. They're like, they're other clans. Like [Enemy clan name.] And these are other clan players in our clan.
+
+Interviewer: Oh, other internal clan players. And we've got other CMs, Now we have the Devs. Do we want to say battlestations?
+
+Participant: Yeah, I would just assume we're talking about [game].
+
+Interviewer: No, do we want to have [the game] as an entity?
+
+Participant: As the game? We could do that...
+
+Interviewer: We don't have to use any of these. We've got you as a clan master, and you as a player. Is there anything else you think we will want to render beforehand?
+
+Participant: In terms of my professional life as a clan master? No, let's go with that for now.
+
+Interviewer: It's not stuck in stone. Sorry, cast in steel. Let's start by diagramming just the basic data flows. Where should we start? Just the most trivial.
+
+Participant: Well, I guess that the most trivial is between myself and the game.
+
+Interviewer: And now this is you as
+
+Participant: Me as a clan master to the game.
+
+Interviewer: CM to [game]
+
+Participant: That's why I was happy to have [the reference to game as an entity] in there.
+
+Interviewer: So there's data flowing from you to the game?
+
+Participant: Yep.
+
+Interviewer: Or... stuff? What would you label this as?
+
+Participant: I'd label that as sort of data. I just send it stuff. It doesn't need any context. It's stuff like "I. Am. Going. To. Rez. The. Fort."
+
+Interviewer: When you say 'stuff' What do you mean?
+
+Participant: It's almost like discrete packets.
+
+Interviewer: So, packets of?
+
+Participant: Data?
+
+Interviewer: Commands?
+
+Participant: Like a command. Saying: "I want to do something. I want rez the fort now."
+
+Interviewer: So is it OK to label this as commands, or does it encompass something other than commands?
+
+Participant: It does, sometimes...
+
+Interviewer: So commands and..
+
+Participant: No, that's true. It's pretty much just commands. like I would send it I could do many things but they're all related to telling the game to do something. I don't call it knowledge, because it's like it's just, maybe they're just talking about context thing. It's something fairly simple, discrete. It's not open for arbitration or anything like that. It doesn't require arbitration, just "do it."
+
+Interviewer: Let's build from here. What other trivial communications or interactions do we want to label here?
+
+Participant: Well, it would be [game] back to me.
+
+Interviewer: You as Clan Master?
+
+Participant: Yep. That would be - its funny - I'd describe that coming back as information. It's telling me that its rezzed the fort or its kicked a player. it's just done something. "I've promoted someone!"
+
+Interviewer: So you'd say this is information?
+
+Participant: Yeah.
+
+Interviewer: What information are you getting?
+
+Participant: Well it's information about the status of something within the game
+
+Interviewer: So status information? So you'd be getting communications of status which are information?
+
+Participant: Yes. That's right. Yeah. "The fort is now up." I can tell the HP of the fort has gone up or that someone's changed a rank.
+
+Interviewer: What other interactions are there in just a trivial level?
+
+Participant: With other bubbles? Or just with [game]?
+
+Interviewer: Let's elaborate from each of these bubbles and just grow it.
+
+Participant: So the next would be -- Maybe if I described the process ...
+
+Interviewer: Walk me through the process.
+
+Participant: Well, this is the case. I say "It's time clan war." This is where I bring in the extra bubbles.
+
+Interviewer: Let's trace this and see where we get off these bubbles from the process.
+
+Participant: We're at clan war. "I want to rez the fort." A command to rez the fort, it sends me back. Now, I guess to introduce the other bubble here as other clan members.
+
+Interviewer: So, we're going to say internal clan members? Can we say other than members because that conflicts with clan master?
+
+Participant: Clan Players?
+
+Interviewer: Players. ICP.
+
+Participant: I'll leave you with the acronyms. I tell them something now as well.
+
+Interviewer: Now, when you tell them something.
+
+Participant: There's a lot. That's a really detailed line between us and
+
+Interviewer: Do we want to multiple lines?
+
+Participant: Yeah. That's cool What we're dealing with at the moment. I'm going through the process of rezzing the fort, which is a common thing we want to do.
+
+Interviewer: So shall we label this rezzing the fort?
+
+Participant: So I'm telling them, I'm sending them information. That they can now war. That they can start.
+
+Interviewer: And so this is a what? Is this a status, is this a command, is this something else?
+
+Participant: It's information because it does require context. But it's like a status it's saying: "you can now war. We can start fighting.
+
+Interviewer: So it's a status. What other flows do you have to the internal clan players?
+
+Participant: Apart from that? We obviously maintain that they're sending stuff back to me.
+
+Interviewer: What are they doing there?
+
+Participant: The line going back. They're sending me, also status updates. Whether they're ready to play, whether they're there. How much AP they have and things like that.
+
+Interviewer: And they're sending you these as?
+
+Participant: textual information.
+
+Interviewer: So its text information?
+
+Participant: Received via MSN.
+
+Interviewer: Do we want to have MSN here or is MSN not at this level?
+
+Participant: No, MSN is at that level. I'd say it is. I see MSN as -- it's true, these would in essence, I don't see them as MSN. MSN is a like a tool or a spanner. As an intermediary because I send it here (MSN bubble) and then to there (Player bubble.) And that is true because I don't talk directly to them, per se.
+
+Interviewer: MSN for information communications?
+
+Participant: It can be annoying if MSN is down, because we lose the ability to communicate.
+
+Interviewer: Now, does battlestations use MSN as an information conduit?
+
+Participant: No
+
+Interviewer: So, how can we differentiate these?
+
+Interviewer: What other flows are there?
+
+Participant: Add myself now, as the player bubble. I don't know if we want to start a new sheet here whether we want to say this is going to be sort of rezzing the fort Now, I guess if we say, "we've rezzed the fort, we send the messages, we get updates, we send [game] commands, it sends back that we're ready to go or that we're up."
+
+Interviewer: So, is this a complete rezzing the fort sequence?
+
+Participant: Pretty much. Not quite
+
+Interviewer: Not quite. What are we missing?
+
+Participant: That we've come to the other CM bubble here, I guess. And that would be. It's a tough one, it's really a unified sort of... it's a knowledge maybe?
+
+Interviewer: Is it one directional?
+
+Participant: It's definitely two-directional, it's much more than the other things were Where we're sharing really information on "well, we want to rez, can we rez, what's going on? Who's up?" "No one's showing up. Shit I don't want to do this." It's that sort of... group 8-10 people on the list that communicate. So it's not even like... I'm certainly not sending commands. I'm not really sending data. I'm sort of sending messages. But anything or nothing could come back.
+
+Interviewer: And you'd classify this as knowledge?
+
+Participant: Yeah. But we really are sharing stuff.
+
+Interviewer: Back and forth sharing?
+
+Participant: "Oh, I can't make it just then, I'm busy this weekend." "I don't want to go now. Can we leave it for another time?" It really is a knowledge thing. Because, collectively we're gaining a better context of what's going to happen to then permit these other things.
+
+Interviewer: What would you say this should be labeled as?
+
+Participant: I'd certainly describe it as knowledge. Because you can really gain something out if it.
+
+Interviewer: We need to talk about that more. But I actually meant the knowledge flow. What flow of knowledge is it? How can we refer to this flow of knowledge? Or is it a flow of knowledge of knowledge?
+
+Participant: I don't quite get you.
+
+Interviewer: We have commands are data. We've got a flow of data that are commands. Here we have a bi-directional flow of knowledge that is organization? But it's not the organization that you're... what category of knowledge is this? What kind of activity is it?
+
+Participant: Sharing? Sharing knowledge? It really is sharing. That's what I said.
+
+Interviewer: There's a process of sharing that goes on before and during the rezzing of the fort process?
+
+Participant: Yeah. It's primarily before. It's certainly part of the thing. That is not the complete picture. It doesn't just happen on its own. Even if it doesn't happen all the time, there's still a sharing of knowledge about what's going on and who's doing what.
+
+\stopextract
+
+\subsection{Personal Reflection}
+The personal reflection for Interview 1 is presented here as part of the expanded discussion around this interview. All other reflections for other interviews can be found in the next chapter.
+
+Participant used the term information to describe a communication of meaning. In this interview, the term was used to describe communications of \quotation{status.} In the sense of the diagram, status is ambiguous. Because people describe their status to the people in charge, it is a communication between people and not a technical communication. Yet it is also the game reporting the status of the data representation of the player to the player. Supporting this, the term \quotation{information} describes communications that are explicitly privileged above data.
+
+Participant used the term knowledge to refer to expertise. Knowledge can be shared and is asserted to be a communicable view of reality. The players in charge of the group of players explicitly engage in knowledge sharing, and impart that view of reality to their apprentices.
+
+Participant, in the SDFN diagram, seemed to use data to refer to contextless communications. These communications can originate from a computer or a person, but they fall into two significant categories: activity causing and unprivileged.
+
+In the activity-causing context, participant described communications {\em to} people and computers. While communications from computers are information, the commands to the computer are data to the game, and explicitly contextless. Data can also be transmitted to a person and is a simple alert designed to cause activity. Curiously, in the same category, messages from the players in charge to the rest of the group are also data. They seem to be contextless and simple instructions. There seems to be a different ontological structure between commands to the game and commands to the players, despite both being described as \quotation{data.}
+
+The unprivileged communications context seems to be attached to communications where the senders cannot know what they are talking about. In a sense, such a communication must be viewed with skepticism: it is a minor or inferior form of information without reliability. In this context, it describes communications from apprentices to the people in charge. Participant believed they do not know enough to offer information. As such, their communications are only data, explicitly described as \quotation{opinions} that do not have any basis for action.
+
+The SDFN diagram suggests that the participant has two different understandings of data simultaneously and suggests no way to reconcile the two.
+
+\stopcomponent

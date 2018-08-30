@@ -1,0 +1,1982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+<manage_target braces="false" utf8="false"></manage_target>
+<library_folder monitor="false"></library_folder>
+<taglist>
+</taglist>
+<doclist>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Ackoff</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>From data to wisdom</bib_title>
+    <bib_authors>Ackoff, R. L.</bib_authors>
+    <bib_journal>Journal of Applied Systems Analysis</bib_journal>
+    <bib_volume>16</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>3-9</bib_pages>
+    <bib_year>1989</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.citeulike.org/group/8357/article/6930744</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:37:01 +1000</bib_extra>
+    <bib_extra key="Url">http://www.citeulike.org/group/8357/article/6930744</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Ackoff2007</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Management F-Laws</bib_title>
+    <bib_authors>Ackoff, Russell L. and Addison, Herbert J. and Bibb, Sally</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Abstract">A full collection of more than 80 of Russell Ackoff’s management f-laws: the uncomfortable truths about how organizations really work, what’s wrong with the way we design and manage businesses, what makes managers tick... and how we can make things work better. Russell Ackoff is one of the world’s top business brains. Herbert Addison has worked for years in business book publishing. Sally Bibb is a pioneer of organizational change. Who better to zero in on organizations, take them apart and then suggest ways of putting them back together - but better?</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=FCr2H97V4YwC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0955008123</bib_extra>
+    <bib_extra key="Pages">162</bib_extra>
+    <bib_extra key="Publisher">Triarchy Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=FCr2H97V4YwC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Alexander2007</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Analytic Epistemology and Experimental Philosophy</bib_title>
+    <bib_authors>Alexander, Joshua and Weinberg, Jonathan M.</bib_authors>
+    <bib_journal>Philosophy Compass</bib_journal>
+    <bib_volume>2</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>56-80</bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://doi.wiley.com/10.1111/j.1747-9991.2006.00048.x</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1111/j.1747-9991.2006.00048.x</bib_extra>
+    <bib_extra key="Doi">10.1111/j.1747-9991.2006.00048.x</bib_extra>
+    <bib_extra key="Issn">1747-9991</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+    <bib_extra key="Url">http://doi.wiley.com/10.1111/j.1747-9991.2006.00048.x</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Atkin2011</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Peirce’s Theory of Signs</bib_title>
+    <bib_authors>Atkin, Albert</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Bdsk-url-1">http://plato.stanford.edu/entries/peirce-semiotics/</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:29:51 +1000</bib_extra>
+    <bib_extra key="Lastchecked">2011</bib_extra>
+    <bib_extra key="Url">http://plato.stanford.edu/entries/peirce-semiotics/</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Ballsun-Stanton2010</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Presentation for BlueScope Steel</bib_title>
+    <bib_authors>Ballsun-Stanton, Brian</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.authorstream.com/Presentation/denubis-439900-exploring-the-philosophy-of-data/</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:31:07 +1000</bib_extra>
+    <bib_extra key="Keywords">Experimental Philosophy,Philosophy of Data,Presentation</bib_extra>
+    <bib_extra key="Mendeley-tags">Philosophy of Data,Presentation</bib_extra>
+    <bib_extra key="Url">http://www.authorstream.com/Presentation/denubis-439900-exploring-the-philosophy-of-data/</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Ballsun-Stanton2009</key>
+    <notes></notes>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Philosophy of Data (PoD) and its Importance to the Discipline of Information Systems</bib_title>
+    <bib_authors>Ballsun-Stanton, Brian and Bunker, Deborah</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="Bdsk-url-1">http://aisel.aisnet.org/amcis2009/435/</bib_extra>
+    <bib_extra key="BookTitle">Americas Conference on Information Systems (AMCIS) 2009</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Ballsun-Stanton, Bunker/Americas Conference on Information Systems (AMCIS) 2009/Ballsun-Stanton, Bunker - 2009 - Philosophy of Data (PoD) and its Importance to the Discipline of Information Systems.pdf:pdf</bib_extra>
+    <bib_extra key="Keywords">Data,Disciplinary,Information,Knowledge,Literature Review,Multi-,Ontologies,Philosophy of Data,Theoretical Basis of Information Systems</bib_extra>
+    <bib_extra key="Mendeley-tags">Literature Review,Philosophy of Data</bib_extra>
+    <bib_extra key="Publisher">AIS Electronic Library</bib_extra>
+    <bib_extra key="Url">http://aisel.aisnet.org/amcis2009/435/</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Barnes1983</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Graph theory in network analysis</bib_title>
+    <bib_authors>Barnes, J. A. and Harary, Frank</bib_authors>
+    <bib_journal>Social networks</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1983</bib_year>
+    <bib_extra key="Bdsk-url-1">http://linkinghub.elsevier.com/retrieve/pii/0378873383900266</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Barnes, Harary/Social networks/Barnes, Harary - 1983 - Graph theory in network analysis.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://linkinghub.elsevier.com/retrieve/pii/0378873383900266</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Baudrillard_1994</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Simulacra and Simulation</bib_title>
+    <bib_authors>Baudrillard, Jean</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume>50</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1994</bib_year>
+    <bib_extra key="Abstract">The first full-length translation in English of an essential work of postmodernist thought</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.amazon.com/dp/0472065211</bib_extra>
+    <bib_extra key="Editor">Glaser, Sheila FEditor</bib_extra>
+    <bib_extra key="Journal">Idea</bib_extra>
+    <bib_extra key="Pages">164</bib_extra>
+    <bib_extra key="Publisher">University of Michigan Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://www.amazon.com/dp/0472065211</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Berger1967</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The social construction of reality: A treatise in the sociology of knowledge</bib_title>
+    <bib_authors>Berger, P. L. and Luckmann, T.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1967</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.getcited.org/pub/102783980</bib_extra>
+    <bib_extra key="Isbn">0140135480</bib_extra>
+    <bib_extra key="Publisher">Penguin Books London</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://www.getcited.org/pub/102783980</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Bernstein2009</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Data-Information-Knowledge-Wisdom Hierarchy and its Antithesis</bib_title>
+    <bib_authors>Bernstein, Jay H.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="Bdsk-url-1">http://arizona.openrepository.com/arizona/handle/10150/105414</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:30:56 +1000</bib_extra>
+    <bib_extra key="Keywords">Information Analysis,Knowledge Organization</bib_extra>
+    <bib_extra key="Language">en</bib_extra>
+    <bib_extra key="Month">jul</bib_extra>
+    <bib_extra key="Url">http://arizona.openrepository.com/arizona/handle/10150/105414</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Borgman1986</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The user’s mental model of an information retrieval system: an experiment on a prototype online catalog</bib_title>
+    <bib_authors>Borgman, C. L.</bib_authors>
+    <bib_journal>International Journal of man-machine studies</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1986</bib_year>
+    <bib_extra key="Bdsk-url-1">http://linkinghub.elsevier.com/retrieve/pii/S0020737386800396</bib_extra>
+    <bib_extra key="Url">http://linkinghub.elsevier.com/retrieve/pii/S0020737386800396</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Boulos2007</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Second Life: an overview of the potential of 3‐D virtual worlds in medical and health education</bib_title>
+    <bib_authors>Boulos, M. N. K.</bib_authors>
+    <bib_journal>Health Information &amp; …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://onlinelibrary.wiley.com/doi/10.1111/j.1471-1842.2007.00733.x/full</bib_extra>
+    <bib_extra key="Url">http://onlinelibrary.wiley.com/doi/10.1111/j.1471-1842.2007.00733.x/full</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Boyd2010</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>apophenia: Learning to Hide in Plain Sight</bib_title>
+    <bib_authors>Boyd, Danah</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.zephoria.org/thoughts/archives/2010/08/23/social-steganography-learning-to-hide-in-plain-sight.html</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:30:52 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Boyd/apophenia/Boyd - 2010 - Social Steganography Learning to Hide in Plain Sight.html:html</bib_extra>
+    <bib_extra key="Url">http://www.zephoria.org/thoughts/archives/2010/08/23/social-steganography-learning-to-hide-in-plain-sight.html</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Brown2008</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Minds on fire: Open education, the long tail, and learning 2.0</bib_title>
+    <bib_authors>Brown, John Seely and Adler, Richard P.</bib_authors>
+    <bib_journal>Educause review</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="Bdsk-url-1">http://webpages.csus.edu/ sac43949/PDFs/minds%5C_on%5C_fire.pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Brown, Adler/Educause review/Brown, Adler - 2008 - Minds on fire Open education, the long tail, and learning 2.0.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://webpages.csus.edu/~sac43949/PDFs/minds\_on\_fire.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Bruffee1986</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Social Construction, Language, and the Authority of Knowledge: A Bibliographical Essay</bib_title>
+    <bib_authors>Bruffee, Kenneth A.</bib_authors>
+    <bib_journal>College English</bib_journal>
+    <bib_volume>48</bib_volume>
+    <bib_number>8</bib_number>
+    <bib_pages>773-790</bib_pages>
+    <bib_year>1986</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.jstor.org/stable/376723</bib_extra>
+    <bib_extra key="Publisher">National Council of Teachers of English</bib_extra>
+    <bib_extra key="Url">http://www.jstor.org/stable/376723</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Carmel1993</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>PD and joint application design: a transatlantic comparison</bib_title>
+    <bib_authors>Carmel, E.</bib_authors>
+    <bib_journal>Communications of the ACM</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1993</bib_year>
+    <bib_extra key="Bdsk-url-1">http://portal.acm.org/citation.cfm?id=153571.163265%5C&amp;dl=GUIDE%5C&amp;dl=ACM%5C&amp;idx=153571%5C&amp;part=periodical%5C&amp;WantType=periodical%5C&amp;title=Communications%20of%20the%20ACM</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Carmel/Communications of the ACM/Carmel - 1993 - PD and joint application design a transatlantic comparison.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://portal.acm.org/citation.cfm?id=153571.163265\&amp;dl=GUIDE\&amp;dl=ACM\&amp;idx=153571\&amp;part=periodical\&amp;WantType=periodical\&amp;title=Communications of the ACM</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Chandler2001</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Semiotics for Beginners: Strengths</bib_title>
+    <bib_authors>Chandler, Daniel</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.aber.ac.uk/media/Documents/S4B/sem10.html</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:30:48 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Chandler/Unknown/Chandler - 2001 - Semiotics for Beginners Strengths.html:html</bib_extra>
+    <bib_extra key="Url">http://www.aber.ac.uk/media/Documents/S4B/sem10.html</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Chesterton</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Heretics</bib_title>
+    <bib_authors>Chesterton, G. K.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.gutenberg.org/ebooks/470</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:36:16 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Chesterton/Unknown/Chesterton - Unknown - Heretics.html:html</bib_extra>
+    <bib_extra key="Keywords">free audio books,free books,free ebooks</bib_extra>
+    <bib_extra key="Publisher">Project Gutenberg</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://www.gutenberg.org/ebooks/470</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Choi2006</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A survey on ontology mapping</bib_title>
+    <bib_authors>Choi, N.</bib_authors>
+    <bib_journal>ACM Sigmod Record</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Bdsk-url-1">http://portal.acm.org/citation.cfm?id=1168097</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Choi/ACM Sigmod Record/Choi - 2006 - A survey on ontology mapping.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://portal.acm.org/citation.cfm?id=1168097</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Chrisman1999</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Trading zones or boundary objects: Understanding incomplete translations of technical expertise</bib_title>
+    <bib_authors>Chrisman, N.</bib_authors>
+    <bib_journal>Social Studies of Science (4S) Annual Meeting</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Bdsk-url-1">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.6239%5C&amp;rep=rep1%5C&amp;type=pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Chrisman/Social Studies of Science (4S) Annual Meeting/Chrisman - 1999 - Trading zones or boundary objects Understanding incomplete translations of technical expertise.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.6239\&amp;rep=rep1\&amp;type=pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Codd1990</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The relational model for database management: version 2</bib_title>
+    <bib_authors>Codd, E. F.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1990</bib_year>
+    <bib_extra key="Bdsk-url-1">http://portal.acm.org/citation.cfm?id=SERIES11430.77708</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:28:13 +1000</bib_extra>
+    <bib_extra key="Publisher">Addison-Wesley Longman Publishing Co., Inc</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://portal.acm.org/citation.cfm?id=SERIES11430.77708</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Collins2007</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Trading zones and interactional expertise</bib_title>
+    <bib_authors>Collins, H.</bib_authors>
+    <bib_journal>Studies in History and Philosophy of …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://linkinghub.elsevier.com/retrieve/pii/S003936810700060X</bib_extra>
+    <bib_extra key="Url">http://linkinghub.elsevier.com/retrieve/pii/S003936810700060X</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Cunningham1992</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Beyond educational psychology: Steps toward an educational semiotic</bib_title>
+    <bib_authors>Cunningham, Donald J.</bib_authors>
+    <bib_journal>Educational Psychology Review</bib_journal>
+    <bib_volume>4</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>165-194</bib_pages>
+    <bib_year>1992</bib_year>
+    <bib_extra key="Abstract">In this paper, I argue that educational psychology is deeply embedded in an objectivist epistemology, the consequences of which seriously undermine our ability to inform educational practice. In the remainder of the paper, I provide an introduction to semiotics, the doctrine of signs, and offer four global concepts (the sign, semiosis, inference, and reflexivity) that I believe set semiotics apart from other, more or less related, approaches within psychology and educational psychology (e.g., constructivism). I conclude the paper by responding to some of the more frequently asked questions I have encountered in attempting to define an educational semiotic.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.springerlink.com/content/pl0328205l718610/</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1007/BF01322343</bib_extra>
+    <bib_extra key="Doi">10.1007/BF01322343</bib_extra>
+    <bib_extra key="Issn">1040-726X</bib_extra>
+    <bib_extra key="Keywords">Behavioral Science</bib_extra>
+    <bib_extra key="Month">jun</bib_extra>
+    <bib_extra key="Publisher">Springer Netherlands</bib_extra>
+    <bib_extra key="Url">http://www.springerlink.com/content/pl0328205l718610/</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Czarniawska2003</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Consulting as a Liminal Space</bib_title>
+    <bib_authors>Czarniawska, B. and Mazza, C.</bib_authors>
+    <bib_journal>Human Relations</bib_journal>
+    <bib_volume>56</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>267-290</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Abstract">The growing literature on management consulting views consultants as allies of management, in temporary positions of power. This article attempts to complement this perspective by assuming a metaphor of consulting as a liminal space. Liminality is a condition where the usual practice and order are suspended and replaced by new rites and rituals. We build on the anthropological analyses of Arnold van Gennep and Victor Turner to find theoretical support for the idea of liminality as applied to the consulting activity. This article is based on our experience as consultants and observers. It collects on-the-job reflections - ours and those of other consultants we have met. These participating observations support the suggestion that consulting can be represented as a liminal space for both consultants and their client organizations.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://hum.sagepub.com/cgi/content/abstract/56/3/267</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1177/0018726703056003612</bib_extra>
+    <bib_extra key="Doi">10.1177/0018726703056003612</bib_extra>
+    <bib_extra key="Issn">0018-7267</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+    <bib_extra key="Url">http://hum.sagepub.com/cgi/content/abstract/56/3/267</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Dreyfus2004</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A companion to Heidegger</bib_title>
+    <bib_authors>Dreyfus, Hubert L.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=mhiAcSw201kC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">1405110929</bib_extra>
+    <bib_extra key="Pages">230</bib_extra>
+    <bib_extra key="Publisher">John Wiley and Sons</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=mhiAcSw201kC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Dubois2002</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Systematic combining: an abductive approach to case research</bib_title>
+    <bib_authors>Dubois, A. and Gadde, L. E.</bib_authors>
+    <bib_journal>Journal of business research</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Bdsk-url-1">http://linkinghub.elsevier.com/retrieve/pii/S0148296300001958</bib_extra>
+    <bib_extra key="Url">http://linkinghub.elsevier.com/retrieve/pii/S0148296300001958</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Ehn1993</key>
+    <notes></notes>
+    <bib_type>Inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Scandinavian Design: On Participation and Skill</bib_title>
+    <bib_authors>Ehn, Pelle</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>319</bib_pages>
+    <bib_year>1993</bib_year>
+    <bib_extra key="Abstract">The voices in this collection are primarily those of researchers and developers concerned with bringing knowledge of technological possibilities to bear on informed and effective system design. Their efforts are distinguished from many previous writings on system development by their central and abiding reliance on direct and continuous interaction with those who are the ultimate arbiters of system adequacy; namely, those who will use the technology in their everyday lives and work. A key issue throughout is the question of who does what to whom: whose interests are at stake, who initiates action and for what reason, who defines the problem and who decides that there is one. The papers presented follow in the footsteps of a small but growing international community of scholars and practitioners of participatory systems design. Many of the original European perspectives are represented here as well as some new and distinctively American approaches. The collection is characterized by a rich anddiverse set of perspectives and experiences that, despite their differences, share a distinctive spirit and direction – a more humane, creative, and effective relationship between those involved in technology’s design and use, and between technology and the human activities that motivate the technology.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=pWOEk6Sk4YkC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Chapter">4</bib_extra>
+    <bib_extra key="Isbn">0805809511</bib_extra>
+    <bib_extra key="Publisher">Routledge</bib_extra>
+    <bib_extra key="Subtitle">principles and practices</bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=pWOEk6Sk4YkC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Festinger1957</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A theory of cognitive dissonance</bib_title>
+    <bib_authors>Festinger, Leon</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1957</bib_year>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=voeQ-8CASacC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0804709114</bib_extra>
+    <bib_extra key="Pages">291</bib_extra>
+    <bib_extra key="Publisher">Stanford University Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=voeQ-8CASacC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Floridi2005a</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Data and information quality: an information-theoretic perspective</bib_title>
+    <bib_authors>Floridi, L.</bib_authors>
+    <bib_journal>Computing and Information Systems</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Date-added">2011-05-16 22:35:56 +1000</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 22:36:12 +1000</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Floridi2004</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Outline of a theory of strongly semantic information</bib_title>
+    <bib_authors>Floridi, L.</bib_authors>
+    <bib_journal>Minds and Machines</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Date-added">2011-05-16 22:35:18 +1000</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 22:35:39 +1000</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Floridi2003</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>From data to semantic information.</bib_title>
+    <bib_authors>Floridi, L.</bib_authors>
+    <bib_journal>Entropy</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Date-added">2011-05-16 22:33:55 +1000</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 22:34:31 +1000</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Floridi2002</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the intrinsic value of information objects and the infosphere</bib_title>
+    <bib_authors>Floridi, L.</bib_authors>
+    <bib_journal>Ethics and Information Technology</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.springerlink.com/index/QK4X81V351157323.pdf</bib_extra>
+    <bib_extra key="Url">http://www.springerlink.com/index/QK4X81V351157323.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>FLORIDI2005</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Is Semantic Information Meaningful Data?</bib_title>
+    <bib_authors>Floridi, L.</bib_authors>
+    <bib_journal>Philosophy and Phenomenological Research</bib_journal>
+    <bib_volume>70</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>351-370</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Bdsk-url-1">http://doi.wiley.com/10.1111/j.1933-1592.2005.tb00531.x</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1111/j.1933-1592.2005.tb00531.x</bib_extra>
+    <bib_extra key="Doi">10.1111/j.1933-1592.2005.tb00531.x</bib_extra>
+    <bib_extra key="Issn">0031-8205</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+    <bib_extra key="Url">http://doi.wiley.com/10.1111/j.1933-1592.2005.tb00531.x</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Frodeman2009</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Seasons of our Discontent</bib_title>
+    <bib_authors>Frodeman, Robert and Rowland, Jennifer</bib_authors>
+    <bib_journal>ALIF</bib_journal>
+    <bib_volume>29</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="Bdsk-url-1">http://csid.unt.edu/files/Frodeman%20final%20-%20Alif.pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Frodeman, Rowland/ALIF/Frodeman, Rowland - 2009 - The Seasons of our Discontent.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://csid.unt.edu/files/Frodeman final - Alif.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Galison1997</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Image and logic: A material culture of microphysics</bib_title>
+    <bib_authors>Galison, P. L.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1997</bib_year>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=6Gcu92U8CwYC%5C&amp;oi=fnd%5C&amp;pg=PR13%5C&amp;dq=Image+and+logic:+A+material+culture+of+microphysics%5C&amp;ots=8VXZgQdHDa%5C&amp;sig=J2jrjTapJ76UrD4lgkhp0Dea1Oc</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Galison/Unknown/Galison - 1997 - Image and logic A material culture of microphysics.html:html</bib_extra>
+    <bib_extra key="Publisher">University of Chicago Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Shorttitle">Image and logic</bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=6Gcu92U8CwYC\&amp;oi=fnd\&amp;pg=PR13\&amp;dq=Image+and+logic:+A+material+culture+of+microphysics\&amp;ots=8VXZgQdHDa\&amp;sig=J2jrjTapJ76UrD4lgkhp0Dea1Oc</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Garfield1980</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Is Information Retrieval in the Arts and Humanities Inherently Different from That in Science?: The Effect That ISI’S Citation Index for the Arts and Humanities Is Expected to Have on Future Scholarship</bib_title>
+    <bib_authors>Garfield, Eugene</bib_authors>
+    <bib_journal>The Library Quarterly</bib_journal>
+    <bib_volume>50</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>40-57</bib_pages>
+    <bib_year>1980</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.jstor.org/stable/4307182</bib_extra>
+    <bib_extra key="Publisher">The University of Chicago Press</bib_extra>
+    <bib_extra key="Url">http://www.jstor.org/stable/4307182</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Gorman2002</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Levels of expertise and trading zones: A framework for multidisciplinary collaboration</bib_title>
+    <bib_authors>Gorman, M. E.</bib_authors>
+    <bib_journal>Social Studies of Science</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.jstor.org/stable/3183060</bib_extra>
+    <bib_extra key="Url">http://www.jstor.org/stable/3183060</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>GREENE1987</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Stakeholder participation in evaluation design: Is it worth the effort?</bib_title>
+    <bib_authors>GREENE, J.</bib_authors>
+    <bib_journal>Evaluation and Program Planning</bib_journal>
+    <bib_volume>10</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages>379-394</bib_pages>
+    <bib_year></bib_year>
+    <bib_extra key="Abstract">Using a utilization-oriented participatory evaluation case study methodology, this research project is investigating (a) the hypothesized link between participation and evaluation use, (b) the theoretical and operational dimensions of participatory evaluation, and (c) the possible conflicts between use and quality within participatory approaches to evaluation. This paper reports on the design phase of two case study evaluations being conducted in cooperation with two small local human service agencies. The participatory design process used is described, and the nature and meaningfulness of stakeholder participation in this process is reviewed. A concluding assessment of the value of stakeholder participation in evaluation design yields a qualified &quot;yes.”, bdsk-url-1 = http://dx.doi.org/10.1016/0149-7189(87)90010-3, doi = 10.1016/0149-7189(87)90010-3, issn = 01497189, url = http://dx.doi.org/10.1016/0149-7189(87)90010-3, year = 1987 </bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Harper</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Online Etymology Dictionary</bib_title>
+    <bib_authors>Harper, Douglas</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.etymonline.com/index.php?term=data</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:30:09 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Harper/Unknown/Harper - Unknown - Online Etymology Dictionary.html:html</bib_extra>
+    <bib_extra key="Url">http://www.etymonline.com/index.php?term=data</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Howard2011</key>
+    <notes></notes>
+    <bib_type>MastersThesis</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Philosophy and the Development of a Biologically Derived Artificial Intelligence:An Examination of Cognitive and Neurological Methodology</bib_title>
+    <bib_authors>Howard, Catherine</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="School">University of New South Wales</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Hurley2003</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Post Office Box Addresses: A Challenge for Geographic Information System-Based Studies</bib_title>
+    <bib_authors>Hurley, Susan E. and Saunders, Theresa M. and Nivas, Rachna and Hertz, Andrew and Reynolds, Peggy</bib_authors>
+    <bib_journal>Epidemiology</bib_journal>
+    <bib_volume>14</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Date-added">2011-05-16 23:15:08 +1000</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:29:19 +1000</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>James2007</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Pragmatism: A New Name for Some Old Ways of Thinking</bib_title>
+    <bib_authors>James, William</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Abstract">Pragmatism: A New Name for Some Old Ways of Thinking is a book by American psychologist and philosopher William James that focuses on his belief in pragmatism, which is considred to be the ability to forsee practical consequences or real effects as vital components of meaning as well as truth. Pragmatism is a key work for those studying the ideas related the pragmatic movement as well as those who are interested in the writings of William James.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=5ahtEJESjTQC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://books.google.com/books?id=5ahtEJESjTQC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">1599867540</bib_extra>
+    <bib_extra key="Pages">184</bib_extra>
+    <bib_extra key="Publisher">Filiquarian Publishing, LLC.</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=5ahtEJESjTQC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Jones</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Rediscovering Communication</bib_title>
+    <bib_authors>Jones, C.</bib_authors>
+    <bib_journal>uxmatters.com</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.uxmatters.com/mt/archives/2007/08/rediscovering-communication.php</bib_extra>
+    <bib_extra key="Url">http://www.uxmatters.com/mt/archives/2007/08/rediscovering-communication.php</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Jones2006</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Internet Slang Dictionary</bib_title>
+    <bib_authors>Jones, Ryan</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Abstract">An authoritative guide to understanding internet slang and netspeak. Internet Slang Dictionary serves as a reference to anybody who becomes confused when looking at instant messages, chat rooms, or forums.This comprehensive compilation internet slang also includes tips for parents and other insights into internet grammar.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=1JmTUI-rrK4C%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">1847287522</bib_extra>
+    <bib_extra key="Pages">172</bib_extra>
+    <bib_extra key="Publisher">Lulu.com</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=1JmTUI-rrK4C\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Kipping2002</key>
+    <notes></notes>
+    <bib_type>Inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Burden of Otheress: Limits of Consultancy Intervention in Historical Case Studies</bib_title>
+    <bib_authors>Kipping, Matthias and Armbruster, Thomas</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>267</bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Abstract">This book provides insight and concrete knowledge and an international perspective into the growing field of Consulting. Each chapter is based on original research and offers a wide variety of real-life situations from different countries, consulting firms and client corporations. Management Consulting: Emergence and Dynamics of a Knowledge Industry, is divided into three distinctive parts: ’Historical Perspectives on the Consulting Industry’, ’Organizational Perspectives on the Consultancy Firm’, and Relationship Perspectives on the Consultancy Project’. This volume, with the help of an exceptional team of contributors distinguishes and examines consulting at three levels of analysis: industry, organization and project.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=ba%5C_LE10UhagC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Chapter"></bib_extra>
+    <bib_extra key="Isbn">0199242852</bib_extra>
+    <bib_extra key="Publisher">Oxford University Press</bib_extra>
+    <bib_extra key="Subtitle">emergence and dynamics of a knowledge industry</bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=ba\_LE10UhagC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Knobe2007</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Experimental Philosophy</bib_title>
+    <bib_authors>Knobe, Joshua</bib_authors>
+    <bib_journal>Philosophy Compass</bib_journal>
+    <bib_volume>2</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>81-92</bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://doi.wiley.com/10.1111/j.1747-9991.2006.00050.x</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1111/j.1747-9991.2006.00050.x</bib_extra>
+    <bib_extra key="Doi">10.1111/j.1747-9991.2006.00050.x</bib_extra>
+    <bib_extra key="Issn">1747-9991</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+    <bib_extra key="Url">http://doi.wiley.com/10.1111/j.1747-9991.2006.00050.x</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Lakoff2003</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Metaphors we live by</bib_title>
+    <bib_authors>Lakoff, G. and Johnson, M.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Bdsk-url-1">http://books.google.com.au/books?hl=en%5C&amp;lr=%5C&amp;id=29gyLFV6VkQC%5C&amp;oi=fnd%5C&amp;pg=PA103%5C&amp;dq=metaphors+we+live+by%5C&amp;ots=Cql5pndygj%5C&amp;sig=RPgEHQlr0xsv-pKZCd6wmK7RMjY</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:34:52 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Lakoff, Johnson/Unknown/Lakoff, Johnson - 1980 - Metaphors we live by.pdf:pdf</bib_extra>
+    <bib_extra key="Publisher">The University of Chicago Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com.au/books?hl=en\&amp;lr=\&amp;id=29gyLFV6VkQC\&amp;oi=fnd\&amp;pg=PA103\&amp;dq=metaphors+we+live+by\&amp;ots=Cql5pndygj\&amp;sig=RPgEHQlr0xsv-pKZCd6wmK7RMjY</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Larsen</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A formal semantics of data flow diagrams</bib_title>
+    <bib_authors>Larsen, P. G.</bib_authors>
+    <bib_journal>Formal aspects of Computing</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1993</bib_year>
+    <bib_extra key="Bdsk-url-1">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.5990%5C&amp;rep=rep1%5C&amp;type=pdf</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:25:39 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Larsen/Formal aspects of Computing/Larsen - Unknown - A formal semantics of data flow diagrams.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.5990\&amp;rep=rep1\&amp;type=pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Latour2005</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Reassembling the social: an introduction to actor-network-theory</bib_title>
+    <bib_authors>Latour, Bruno</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Abstract">Reassembling the Social is a fundamental challenge from one of the world’s leading social theorists to how we understand society and the ’social’. Bruno Latour’s contention is that the word ’social’ as used by Social Scientists has become laden with assumptions to the point where it has become a misnomer. When the adjective is applied to a phenomenon, it is used to indicate a stabilized state of affairs, a bundle of ties that in due course may be used to account for another phenomenon. Latour also finds the word used as if it described a type of material, in a comparable way to an adjective such as ’wooden’ or ’steely’. Rather than simply indicating what is already assembled together, it is now used in a way that makes assumptions about the nature of what is assembled. It has become a word that designates two distinct things: a process of assembling: and a type of material, distinct from others. Latour shows why ’the social’ cannot be thought of as a kind of material or domain, and disputes attempts to provide a ’social explanation’ of other states of affairs. While these attempts have been productive (and probably necessary) in the past, the very success of the social sciences mean that they are largely no longer so. At the present stage it is no longer possible to inspect the precise constituents entering the social domain. Latour returns to the original meaning of ’the social’ to redefine the notion and allow it to trace connections again. It will then be possible to resume the traditional goal of the social sciences, but using more refined tools. Drawing on his extensive work examining the ’assemblages’ of nature, Latour finds it necessary to scrutinize thoroughly the exact content of what is assembled under the umbrella of Society. This approach, a ’sociology of associations’ has become known as Actor-Network-Theory, and this book is an essential introduction both for those seeking to understand Actor-Network-Theory, or the ideas of one of its most influential proponents.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=DlgNiBaYo-YC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0199256047</bib_extra>
+    <bib_extra key="Pages">301</bib_extra>
+    <bib_extra key="Publisher">Oxford University Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=DlgNiBaYo-YC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Leary2005</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Handbook of self and identity</bib_title>
+    <bib_authors>Leary, Mark R. and Tangney, June Price</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Abstract">The self has emerged as a central construct in many domains of behavioral and social science. This state-of-the-science volume brings together an array of leading authorities to comprehensively review theory and research in this burgeoning area. Coverage includes the content, structure, and organization of the self; processes related to agency, regulation, and self-control; self-evaluation and self-related motivation and emotion; interpersonal and cultural issues; and self-development across evolutionary time and the lifespan. Also examined are ways that the development of the self can go awry, resulting in emotional and behavioral problems.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=vafgWfgxUK8C%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">1593852371</bib_extra>
+    <bib_extra key="Pages">703</bib_extra>
+    <bib_extra key="Publisher">Guilford Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=vafgWfgxUK8C\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Levin-Rozalis2008</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Searching for the unknowable: A process of detection–-Abductive research generated by projective techniques</bib_title>
+    <bib_authors>Levin-Rozalis, M.</bib_authors>
+    <bib_journal>International Journal of Qualitative …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="Bdsk-url-1">http://ejournals.library.ualberta.ca/index.php/IJQM/article/viewArticle/4467</bib_extra>
+    <bib_extra key="Url">http://ejournals.library.ualberta.ca/index.php/IJQM/article/viewArticle/4467</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Maier1970</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Problem Solving and Creativity in Individuals and Groups</bib_title>
+    <bib_authors>Maier, Norman Raymond Frederick</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1970</bib_year>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?ei=4fhlTYOvN4KkvgO8kpz2DA%5C&amp;ct=result%5C&amp;id=TTp9AAAAMAAJ%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Pages">493</bib_extra>
+    <bib_extra key="Publisher">Brooks/Cole Pub. Co.</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?ei=4fhlTYOvN4KkvgO8kpz2DA\&amp;ct=result\&amp;id=TTp9AAAAMAAJ\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Marshall_2003</key>
+    <notes></notes>
+    <bib_type>Inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Conceptualising tangibles to support learning</bib_title>
+    <bib_authors>Marshall, Paul and Price, Sara and Rogers, Yvonne</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number>c</bib_number>
+    <bib_pages>101</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Abstract">We present a new way of conceptualising tangibles for learning. This scheme adopts Heideggerʼs analysis of the ways a user can treat a tool: either as “ready-to-hand” or “present-at-hand”. It also proposes two types of activity a learner can engage in when using a tangible: either exploratory or expressive activity. Finally, two types of models that a user can explore are proposed: theoretical and practical models.Examples from the literature are described in terms of this framework and an example is given from our own work of an attempt to use this conceptualisation in design.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://doi.acm.org/10.1145/953536.953551</bib_extra>
+    <bib_extra key="Chapter"></bib_extra>
+    <bib_extra key="Publisher">ACM press</bib_extra>
+    <bib_extra key="Url">http://doi.acm.org/10.1145/953536.953551</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>McNab2008</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Prefrontal cortex and basal ganglia control access to working memory.</bib_title>
+    <bib_authors>McNab, Fiona and Klingberg, Torkel</bib_authors>
+    <bib_journal>Nature neuroscience</bib_journal>
+    <bib_volume>11</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>103-7</bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="Abstract">Our capacity to store information in working memory might be determined by the degree to which only relevant information is remembered. The question remains as to how this selection of relevant items to be remembered is accomplished. Here we show that activity in the prefrontal cortex and basal ganglia preceded the filtering of irrelevant information and that activity, particularly in the globus pallidus, predicted the extent to which only relevant information is stored. The preceding frontal and basal ganglia activity were also associated with inter-individual differences in working memory capacity. These findings reveal a mechanism by which frontal and basal ganglia activity exerts attentional control over access to working memory storage in the parietal cortex in humans, and makes an important contribution to inter-individual differences in working memory capacity.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://dx.doi.org/10.1038/nn2024</bib_extra>
+    <bib_extra key="Doi">10.1038/nn2024</bib_extra>
+    <bib_extra key="Issn">1097-6256</bib_extra>
+    <bib_extra key="Keywords">Adult,Basal Ganglia,Basal Ganglia: blood supply,Basal Ganglia: physiology,Brain Mapping,Female,Humans,Image Processing, Computer-Assisted,Image Processing, Computer-Assisted: methods,Magnetic Resonance Imaging,Magnetic Resonance Imaging: methods,Male,Memory, Short-Term,Memory, Short-Term: physiology,Neuropsychological Tests,Oxygen,Oxygen: blood,Photic Stimulation,Photic Stimulation: methods,Prefrontal Cortex,Prefrontal Cortex: blood supply,Prefrontal Cortex: physiology,Psychomotor Performance,Psychomotor Performance: physiology</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+    <bib_extra key="Pmid">18066057</bib_extra>
+    <bib_extra key="Publisher">Nature Publishing Group</bib_extra>
+    <bib_extra key="Shorttitle">Nat Neurosci</bib_extra>
+    <bib_extra key="Url">http://dx.doi.org/10.1038/nn2024</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Medin1989</key>
+    <notes></notes>
+    <bib_type>Inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Concepts and conceptual development: ecological and intellectual factors in ...</bib_title>
+    <bib_authors>Medin, Douglas L. and Wattenmaker, William D.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>317</bib_pages>
+    <bib_year>1989</bib_year>
+    <bib_extra key="Abstract">Categories straddle the boundary between the mind and the world: they are socially developed mental representations, but they must fit the properties of real objects in the real environment if they are to be useful. Concepts and Conceptual Development reflects the view that a full understanding of categorization must take all these constraints into account. Everyday terms and categories depend not only on the implicit theories that people have about the world (their ’idealised cognitive models’), but also on the objective properties of particular objects and the perceptible similarities among these objects. An understanding of these multiple relationships can reshape studies of concepts and conceptual development. Concepts and Conceptual Development draws together theorists from a wide range of theoretical orientations to consider many different aspects of ’the psychology of concepts’.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=uFY7AAAAIAAJ%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Chapter">3</bib_extra>
+    <bib_extra key="Isbn">0521378753</bib_extra>
+    <bib_extra key="Publisher">CUP Archive</bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=uFY7AAAAIAAJ\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Nejdl2006</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Innovative Approaches for Learning and Knowledge Sharing</bib_title>
+    <bib_authors>Nejdl, Wolfgang and Tochtermann, Klaus and Klamma, Ralf and Spaniol, Marc and Cao, Yiwei and Jarke, Matthias</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume>4227</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Abstract">It is extremely challenging to get an overview of the state-of-the-art in technology enhanced learning in Europe. Rapid technological and pedagogical innovations, constantly changing markets, a vivid number of small and medium enterprises, complex policy processes, ongoing political and societal debates on the pros and cons of technology enhanced leaning, combined with many languages and different cultures, make it almost impossible for people to be informed. We want to introduce the media base and the measure tools for pattern-based cross media social network analysis, created by the PROLEARN network of excellence in professional learning. The main goal of this endeavour is the reduction of complexity for actors in digital social networks by applying ideas from social software and already successful methods for complexity reduction, such as information visualization, social network analysis and pattern languages.</bib_extra>
+    <bib_extra key="Address">Berlin, Heidelberg</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.springerlink.com/content/d110425q358k4750/</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1007/11876663</bib_extra>
+    <bib_extra key="Doi">10.1007/11876663</bib_extra>
+    <bib_extra key="Editor">Nejdl, Wolfgang and Tochtermann, Klaus</bib_extra>
+    <bib_extra key="Isbn">978-3-540-45777-0</bib_extra>
+    <bib_extra key="Pages">242–256–256</bib_extra>
+    <bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+    <bib_extra key="Series">Lecture Notes in Computer Science</bib_extra>
+    <bib_extra key="Url">http://www.springerlink.com/content/d110425q358k4750/</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Norman2002</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The design of everyday things</bib_title>
+    <bib_authors>Norman, D. A.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Bdsk-url-1">http://ucdwiki.chuank.com/uploads/Main/UCDReading%5C_wk5.pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Norman/Unknown/Norman - 2002 - The design of everyday things.pdf:pdf</bib_extra>
+    <bib_extra key="Publisher">Basic Books New York</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://ucdwiki.chuank.com/uploads/Main/UCDReading\_wk5.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Norman2005</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Human-centered design considered harmful</bib_title>
+    <bib_authors>Norman, D. A.</bib_authors>
+    <bib_journal>Interactions</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Bdsk-url-1">http://srl.csdl.tamu.edu/courses/CHI2009/assignments/data/Harmful-norman.pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Norman/Interactions/Norman - 2005 - Human-centered design considered harmful.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://srl.csdl.tamu.edu/courses/CHI2009/assignments/data/Harmful-norman.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Norman1999</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Affordance, conventions, and design</bib_title>
+    <bib_authors>Norman, Donald A.</bib_authors>
+    <bib_journal>interactions</bib_journal>
+    <bib_volume>6</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>38-43</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Bdsk-url-1">http://portal.acm.org/ft%5C_gateway.cfm?id=301168%5C&amp;type=html</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1145/301153.301168</bib_extra>
+    <bib_extra key="Doi">10.1145/301153.301168</bib_extra>
+    <bib_extra key="Issn">10725520</bib_extra>
+    <bib_extra key="Month">may</bib_extra>
+    <bib_extra key="Url">http://portal.acm.org/ft\_gateway.cfm?id=301168\&amp;type=html</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Noy2004</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Semantic integration: a survey of ontology-based approaches</bib_title>
+    <bib_authors>Noy, N. F.</bib_authors>
+    <bib_journal>ACM Sigmod Record</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Bdsk-url-1">http://portal.acm.org/citation.cfm?id=1041421</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Noy/ACM Sigmod Record/Noy - 2004 - Semantic integration a survey of ontology-based approaches.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://portal.acm.org/citation.cfm?id=1041421</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Orlikowski06011991</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Information Technology and the Structuring of Organizations</bib_title>
+    <bib_authors>Orlikowski, Wanda J. and Robey, Daniel</bib_authors>
+    <bib_journal>INFORMATION SYSTEMS RESEARCH</bib_journal>
+    <bib_volume>2</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>143-169</bib_pages>
+    <bib_year>1991</bib_year>
+    <bib_extra key="Abstract">Recent work in social theory departs from prior traditions in proposing that social phenomena can be understood as comprising both subjective and objective elements. We apply this premise of duality to understanding the relationship between information technology and organizations. We construct a theoretical framework in which the development and deployment of information technology in organizations is a social phenomenon, and in which the organizational consequences of technology are products of both material and social dimensions. The framework is based on Giddens’ theory of structuration, and it allows us to progress beyond several of the false dichotomies (subjective vs objective, socially constructed vs material, macro vs micro, and qualitative vs quantitative) that persist in investigations of the interaction between organizations and information technology. The framework can be used to guide studies in two main areas of information systems research–systems development and the organizational consequences of using information technology. </bib_extra>
+    <bib_extra key="Bdsk-url-1">http://isr.journal.informs.org/cgi/content/abstract/2/2/143</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1287/isre.2.2.143</bib_extra>
+    <bib_extra key="Doi">10.1287/isre.2.2.143</bib_extra>
+    <bib_extra key="Eprint">http://isr.journal.informs.org/cgi/reprint/2/2/143.pdf</bib_extra>
+    <bib_extra key="Url">http://isr.journal.informs.org/cgi/content/abstract/2/2/143</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Owen2000</key>
+    <notes></notes>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Introducing Information Technology Students to a New Major : The Role of an Introductory Course Sequence</bib_title>
+    <bib_authors>Owen, William and Landry, Jeffrey P. and Mckinney, Dawn</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-117</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Address">Philadelphia</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://proc.isecon.org/2000/117/</bib_extra>
+    <bib_extra key="BookTitle">The Proceedings of the Information Systems Education Conference 2000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Owen, Landry, Mckinney/The Proceedings of the Information Systems Education Conference 2000/Owen, Landry, Mckinney - 2000 - Introducing Information Technology Students to a New Major The Role of an Introductory Course Sequence.pdf:pdf</bib_extra>
+    <bib_extra key="Keywords">curriculum,information technology,introductory course description</bib_extra>
+    <bib_extra key="Url">http://proc.isecon.org/2000/117/</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Oxford2011</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>OED Online</bib_title>
+    <bib_authors>OxfordEnglishDictionary,</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.oed.com/view/Entry/47434?redirectedFrom=data%5C#</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:30:42 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Unknown/OED Online/Unknown - 2011 - datum, n.html:html</bib_extra>
+    <bib_extra key="Publisher">Oxford University Press</bib_extra>
+    <bib_extra key="Url">http://www.oed.com/view/Entry/47434?redirectedFrom=data\#</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Pesce</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The New Toolkit</bib_title>
+    <bib_authors>Pesce, Mark</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://blog.futurestreetconsulting.com/2011/02/20/the-new-toolkit/</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:27:53 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Pesce/Unknown/Pesce - Unknown - The New Toolkit the human network.html:html</bib_extra>
+    <bib_extra key="Lastchecked">2011</bib_extra>
+    <bib_extra key="Url">http://blog.futurestreetconsulting.com/2011/02/20/the-new-toolkit/</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Phillips2011</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Experimental Philosophy</bib_title>
+    <bib_authors>Phillips, Jonathan</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://pantheon.yale.edu/ jk762/ExperimentalPhilosophy.html</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:30:32 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Phillips/Unknown/Phillips - 2011 - Experimental Philosophy.html:html</bib_extra>
+    <bib_extra key="Url">http://pantheon.yale.edu/~jk762/ExperimentalPhilosophy.html</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Pondy1967</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Organizational conflict: Concepts and models</bib_title>
+    <bib_authors>Pondy, L. R.</bib_authors>
+    <bib_journal>Administrative Science Quarterly</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1967</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.jstor.org/stable/2391553</bib_extra>
+    <bib_extra key="Url">http://www.jstor.org/stable/2391553</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Popper2002</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The logic of scientific discovery</bib_title>
+    <bib_authors>Popper, Karl R.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1959</bib_year>
+    <bib_extra key="Bdsk-url-1">http://scholar.google.com.au/scholar?hl=en%5C&amp;q=karl+popper+logic+discovery%5C&amp;btnG=Search%5C&amp;as%5C_sdt=0,5%5C&amp;as%5C_ylo=%5C&amp;as%5C_vis=0%5C#0</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:32:06 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Popper/Unknown/Popper - 2002 - The logic of scientific discovery.pdf:pdf</bib_extra>
+    <bib_extra key="Publisher">Routledge</bib_extra>
+    <bib_extra key="Rss-description">@bookPopper_1959, title=The Logic of Scientific Discovery, volume=2nd (1965), url=http://books.google.com/books?id=Yq6xeupNStMC&amp;pgis=1, abstract=When first published in 1959, this book revolutionized contemporary thinking about science and knowledge. It remains the one of the most widely read books about science to come out of the twentieth century., number=2, journal=New Yorker The, publisher=Routledge, author=Popper, Karl R, year=1959, pages=479</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=Yq6xeupNStMC&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Pratchett2002</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The science of Discworld</bib_title>
+    <bib_authors>Pratchett, Terry and Stewart, Ian and Cohen, Jack Sidney</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Abstract">’The hard science is as gripping as the fiction’ (Peter Ingham, The Times) When a wizardly experiment goes adrift, the wizards of Unseen University find themselves with a pocket universe on their hands: Roundworld, where neither magic nor common sense seems to stand a chance against logic. The Universe, of course, is our own. And Roundworld is Earth. As the wizards watch their accidental creation grow, we follow the story of our universe from the primal singularity of the Big Bang to the Internet and beyond. Through this original Terry Pratchett story (with intervening chapters from Cohen and Stewart) we discover how puny and insignificant individual lives are against a cosmic backdrop of creation and disaster. Yet, paradoxically, we see how the richness of a universe based on rules, has led to a complex world and at least one species that tried to get a grip of what was going on...</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=gxZFAAAACAAJ%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0091886570</bib_extra>
+    <bib_extra key="Pages">416</bib_extra>
+    <bib_extra key="Publisher">Ebury</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=gxZFAAAACAAJ\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Reffay2002</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Social Network Analysis used for modelling collaboration in distance learning groups</bib_title>
+    <bib_authors>Reffay, Christophe and Chanier, Thierry</bib_authors>
+    <bib_journal>Intelligent Tutoring Systems</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.springerlink.com/index/b4197184w8667748.pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Reffay, Chanier/Intelligent Tutoring Systems/Reffay, Chanier - 2002 - Social Network Analysis used for modelling collaboration in distance learning groups.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://www.springerlink.com/index/b4197184w8667748.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Roy2008</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A mechanistic model of three facets of meaning</bib_title>
+    <bib_authors>Roy, D.</bib_authors>
+    <bib_journal>Symbols, Embodiment, and Meaning, de Vega, …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="Bdsk-url-1">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.1880%5C&amp;rep=rep1%5C&amp;type=pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Roy/Symbols, Embodiment, and Meaning, de Vega, …/Roy - 2008 - A mechanistic model of three facets of meaning.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.1880\&amp;rep=rep1\&amp;type=pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Schuler1993</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Participatory design: principles and practices</bib_title>
+    <bib_authors>Schuler, Douglas and Namioka, Aki</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1993</bib_year>
+    <bib_extra key="Abstract">The voices in this collection are primarily those of researchers and developers concerned with bringing knowledge of technological possibilities to bear on informed and effective system design. Their efforts are distinguished from many previous writings on system development by their central and abiding reliance on direct and continuous interaction with those who are the ultimate arbiters of system adequacy; namely, those who will use the technology in their everyday lives and work. A key issue throughout is the question of who does what to whom: whose interests are at stake, who initiates action and for what reason, who defines the problem and who decides that there is one. The papers presented follow in the footsteps of a small but growing international community of scholars and practitioners of participatory systems design. Many of the original European perspectives are represented here as well as some new and distinctively American approaches. The collection is characterized by a rich anddiverse set of perspectives and experiences that, despite their differences, share a distinctive spirit and direction – a more humane, creative, and effective relationship between those involved in technology’s design and use, and between technology and the human activities that motivate the technology.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=nj2Y50nWjyAC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0805809511</bib_extra>
+    <bib_extra key="Pages">319</bib_extra>
+    <bib_extra key="Publisher">Routledge</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=nj2Y50nWjyAC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Schultz1996</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Cognitive dissonance reduction as constraint satisfaction.</bib_title>
+    <bib_authors>Schultz, Thomas and Lepper, Mark</bib_authors>
+    <bib_journal>Psychological Review</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Bdsk-url-1">http://scholar.google.com.au/scholar?cluster=15628034013639353776%5C&amp;hl=en%5C&amp;as%5C_sdt=0,5%5C#2%20http://www.psych.mcgill.ca/perpg/fac/shultz/personal/Recent%5C_Publications%5C_files/diss96.pdf</bib_extra>
+    <bib_extra key="Url">http://scholar.google.com.au/scholar?cluster=15628034013639353776\&amp;hl=en\&amp;as\_sdt=0,5\#2 http://www.psych.mcgill.ca/perpg/fac/shultz/personal/Recent\_Publications\_files/diss96.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Scott1988</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Social network analysis</bib_title>
+    <bib_authors>Scott, J.</bib_authors>
+    <bib_journal>Sociology</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1988</bib_year>
+    <bib_extra key="Bdsk-url-1">http://soc.sagepub.com/content/22/1/109.abstract</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Scott/Sociology/Scott - 1988 - Social network analysis.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://soc.sagepub.com/content/22/1/109.abstract</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Shannon1949</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The mathematical theory of information</bib_title>
+    <bib_authors>Shannon, Claude E.</bib_authors>
+    <bib_journal>Urbana University of Illinois Press</bib_journal>
+    <bib_volume>97</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1949</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.citeulike.org/group/160/article/753060</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:29:52 +1000</bib_extra>
+    <bib_extra key="Url">http://www.citeulike.org/group/160/article/753060</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Shortis2001</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The language of ICT: information and communication technology</bib_title>
+    <bib_authors>Shortis, Tim</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Abstract">Written in a clear, user-friendly style by an experienced writer and teacher,The Language of New Communication Technologiescombines practical activities with texts, followed by commentaries. The book explores the nature of the electronic word and presents the new types of text in which it is found; examines the impact of the rapid technological change we are living through; analyses different texts, including email and answerphone messages, webpages, faxes, computer games and articles about IT; provides detailed guidance on downloading material from the web, gives URLs to visit, and includes a dedicated webpage.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=A-OirhpO2hIC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0415222753</bib_extra>
+    <bib_extra key="Pages">116</bib_extra>
+    <bib_extra key="Publisher">Routledge</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=A-OirhpO2hIC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Smith2011</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>MERS Exposed II: General Counsel Tells Whoppers in Testimony Before Virginia House</bib_title>
+    <bib_authors>Smith, Yves</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Date-added">2011-05-16 23:19:11 +1000</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:20:22 +1000</bib_extra>
+    <bib_extra key="Lastchecked">2011</bib_extra>
+    <bib_extra key="Url">http://www.nakedcapitalism.com/2011/01/mers-exposed-ii-general-counsel-tells-whoppers-in-testimony-before-virginia-house.html</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Snow1993</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The two cultures</bib_title>
+    <bib_authors>Snow, Charles Percy</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1993</bib_year>
+    <bib_extra key="Abstract">The notion that our society, its education system and its intellectual life, is characterised by a split between two cultures - the arts or humanities on one hand, and the sciences on the other - has a long history. But it was C. P. Snow’s Rede lecture of 1959 that brought it to prominence and began a public debate that is still raging in the media today. This reissue of The Two Cultures and its successor piece, A Second Look (in which Snow responded to the controversy four years later) has a new introduction by Stefan Collini, charting the history and context of the debate, its implications and its afterlife. The importance of science and technology in policy run largely by non-scientists, the future for education and research, and the problem of fragmentation threatening hopes for a common culture are just some of the subjects discussed. ’Probably the most important statement on the role of science in society yet available.’ Discovery ’One cannot fail to take Snow seriously or to recognise his commitment to the cause of peace, intelligent action and human betterment.’ Scientific American ’Obvious authority and moral intelligence.’ The New Yorker ’Effective because of its obvious generosity of mind and basic sanity.’ The Sunday Times</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=OyHm4sc6IPoC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0521457300</bib_extra>
+    <bib_extra key="Pages">107</bib_extra>
+    <bib_extra key="Publisher">Cambridge University Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=OyHm4sc6IPoC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Sosa2007</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Experimental philosophy and philosophical intuition</bib_title>
+    <bib_authors>Sosa, E.</bib_authors>
+    <bib_journal>Philosophical Studies</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.springerlink.com/index/X505NT2303451525.pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Sosa/Philosophical Studies/Sosa - 2007 - Experimental philosophy and philosophical intuition.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://www.springerlink.com/index/X505NT2303451525.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Sperber1995</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Relevance: communication and cognition</bib_title>
+    <bib_authors>Sperber, Dan and Wilson, Deirdre</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1995</bib_year>
+    <bib_extra key="Abstract">Relevance, first published in 1986, was named as one of the most important and influential books of the decade in the Times Higher Educational Supplement. This revised edition includes a new Preface outlining developments in Relevance Theory since 1986, discussing the more serious criticisms of the theory, and envisaging possible revisions or extensions. The book sets out to lay the foundation for a unified theory of cognitive science. The authors argue than human cognition has a goal: we pay attention only to information which seems to us relevant. To communicate is to claim someone’s attention, and hence to imply that the information communicated is relevant. Thus, a single property - relevance is seen as the key to human communication and cognition. A second important feature of the book is its approach to the study of reasoning. It elucidates the role of background or contextual information in spontaneous inference, and shows that non-demonstrative inference processes can be fruitfully analysed as a form of suitably constrained guesswork. It directly challenges recent claims that human central thought processes are likely to remain a mystery for some time to come. Thirdly, the authors offer new insight into language and literature, radically revising current view on the nature and goals of verbal comprehension, and in particular on metaphor, irony, style, speech acts, presupposition and implicature.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=2sOKgpYuX4wC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">0631198784</bib_extra>
+    <bib_extra key="Pages">326</bib_extra>
+    <bib_extra key="Publisher">Wiley-Blackwell</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=2sOKgpYuX4wC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Spolsky2008</key>
+    <notes></notes>
+    <bib_type>Misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Inc.</bib_title>
+    <bib_authors>Spolsky, Joel</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.inc.com/magazine/20081201/how-hard-could-it-be-my-style-of-servant-leadership.html</bib_extra>
+    <bib_extra key="Date-modified">2011-05-16 23:30:18 +1000</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Spolsky/Inc./Spolsky - 2008 - my style of servant leadership.html:html</bib_extra>
+    <bib_extra key="Keywords">employee motivation,fog creek software,joel spolsky,leadership,management techniques</bib_extra>
+    <bib_extra key="Url">http://www.inc.com/magazine/20081201/how-hard-could-it-be-my-style-of-servant-leadership.html</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Stake1995</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The art of case study research</bib_title>
+    <bib_authors>Stake, Robert E.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1995</bib_year>
+    <bib_extra key="Abstract">This book presents a disciplined, qualitative exploration of case study methods by drawing from naturalistic, holistic, ethnographic, phenomenological and biographic research methods. Robert E. Stake uses and annotates an actual case study to answer such questions as: How is the case selected? How do you select the case which will maximize what can be learned? How can what is learned from one case be applied to another? How can what is learned from a case be interpreted? In addition, the book covers: the differences between quantitative and qualitative approaches; data-gathering including document review; coding, sorting and pattern analysis; the roles of the researcher; triangulation; and reporting.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?hl=en%5C&amp;lr=%5C&amp;id=ApGdBx76b9kC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Isbn">080395767X</bib_extra>
+    <bib_extra key="Pages">175</bib_extra>
+    <bib_extra key="Publisher">SAGE</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?hl=en\&amp;lr=\&amp;id=ApGdBx76b9kC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Star1989</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Institutional ecology,’translations’ and boundary objects: Amateurs and professionals in Berkeley’s Museum of Vertebrate Zoology, 1907-39</bib_title>
+    <bib_authors>Star, S. L. and Griesemer, J. R.</bib_authors>
+    <bib_journal>Social studies of science</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1989</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.jstor.org/stable/285080</bib_extra>
+    <bib_extra key="Url">http://www.jstor.org/stable/285080</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Stone1998</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Metaphor of Scaffolding: Its Utility for the Field of Learning Disabilities</bib_title>
+    <bib_authors>Stone, C. A.</bib_authors>
+    <bib_journal>Journal of Learning Disabilities</bib_journal>
+    <bib_volume>31</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages>344-364</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Abstract">Over the past 20 years, an increasing number of psychologists and educators have used the notion of scaffolding as a metaphor for the process by which adults (and more knowledgeable peers) guide children’s learning and development. The purpose of the present article is to provide a critical analysis of the scaffolding metaphor, with particular emphasis on its applications to the case of atypical learners. In the initial sections of the article, the origins and early applications of the metaphor are sketched. With this as background, criticisms of the metaphor raised by others are reviewed, and a proposal for an enriched version of the metaphor is presented. At the heart of the proposed revision is an emphasis on the communicational dynamics and conceptual reorganization involved in adult–child interactions. With an enriched metaphor as a frame, the next section reviews applications of the scaffolding metaphor to the study of parent–child interactions and teacher–student instructional activities involving children with learning disabilities. The strengths and limitations of this work are evaluated, and proposals are made for how to reap further benefits from applications of the scaffolding metaphor to analyses of the development and instruction of children with learning disabilities.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://ldx.sagepub.com/cgi/content/abstract/31/4/344</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1177/002221949803100404</bib_extra>
+    <bib_extra key="Doi">10.1177/002221949803100404</bib_extra>
+    <bib_extra key="Issn">0022-2194</bib_extra>
+    <bib_extra key="Month">jul</bib_extra>
+    <bib_extra key="Url">http://ldx.sagepub.com/cgi/content/abstract/31/4/344</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Storey1999</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Cognitive design elements to support the construction of a mental model during software exploration</bib_title>
+    <bib_authors>Storey, M. A. D.</bib_authors>
+    <bib_journal>Journal of Systems and Software</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Bdsk-url-1">http://linkinghub.elsevier.com/retrieve/pii/S0164121298100559</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Storey/Journal of Systems and Software/Storey - 1999 - Cognitive design elements to support the construction of a mental model during software exploration.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://linkinghub.elsevier.com/retrieve/pii/S0164121298100559</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Sun2006</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Formulating the Data-Flow Perspective for Business Process Management</bib_title>
+    <bib_authors>Sun, S. X. and Zhao, L. J.</bib_authors>
+    <bib_journal>Information Systems …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.citeulike.org/user/sryll/article/3476600</bib_extra>
+    <bib_extra key="Url">http://www.citeulike.org/user/sryll/article/3476600</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Thagard2004</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Computing in the Philosophy of Science</bib_title>
+    <bib_authors>Thagard, P.</bib_authors>
+    <bib_journal>The Blackwell guide to the philosophy of computing …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Bdsk-url-1">http://books.google.com.au/books?hl=en%5C&amp;lr=%5C&amp;id=rIbJJOjoqygC%5C&amp;oi=fnd%5C&amp;pg=PA307%5C&amp;ots=T8zxz08VUK%5C&amp;sig=Wal70nYPGLSnAzAPJrrpMboHjfw</bib_extra>
+    <bib_extra key="Url">http://books.google.com.au/books?hl=en\&amp;lr=\&amp;id=rIbJJOjoqygC\&amp;oi=fnd\&amp;pg=PA307\&amp;ots=T8zxz08VUK\&amp;sig=Wal70nYPGLSnAzAPJrrpMboHjfw</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Tuomi</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Data is more than knowledge: implications of the reversed knowledge hierarchy for knowledge management and organizational memory</bib_title>
+    <bib_authors>Tuomi, I.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Abstract">In knowledge management literature it is often pointed out that it is important to distinguish between data, information and knowledge. The generally accepted view sees data as simple facts that become information as data is combined into meaningful structures, which subsequently become knowledge as meaningful information is put into a context and when it can be used to make predictions. This view sees data as a prerequisite for information, and information as a prerequisite for knowledge. I explore the conceptual hierarchy of data, information and knowledge, showing that data emerges only after we have information, and that information emerges only after we already have knowledge. The reversed hierarchy of knowledge is shown to lead to a different approach in developing information systems that support knowledge management and organizational memory. It is also argued that this difference may have major implications for organizational flexibility and renewal</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://ieeexplore.ieee.org/xpl/freeabs%5C_all.jsp?arnumber=772795</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1109/HICSS.1999.772795</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:27:03 +1000</bib_extra>
+    <bib_extra key="Doi">10.1109/HICSS.1999.772795</bib_extra>
+    <bib_extra key="Isbn">0-7695-0001-3</bib_extra>
+    <bib_extra key="Pages">12</bib_extra>
+    <bib_extra key="Publisher">IEEE Comput. Soc</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?arnumber=772795</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Voloshinov1929</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Marxism and the Philosophy of Language</bib_title>
+    <bib_authors>Voloshinov, Valentin Nikolaevich</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1929</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.marxists.org/archive/voloshinov/1929/marxism-language.htm</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Voloshinov/Unknown/Voloshinov - 1929 - Marxism and the Philosophy of Language.html:html</bib_extra>
+    <bib_extra key="Publisher">Harvard Univerity Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+    <bib_extra key="Url">http://www.marxists.org/archive/voloshinov/1929/marxism-language.htm</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Volosinov1994</key>
+    <notes></notes>
+    <bib_type>Inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Language and Ideology: a reader</bib_title>
+    <bib_authors>Volosinov, V. N.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>271</bib_pages>
+    <bib_year>1994</bib_year>
+    <bib_extra key="Bdsk-url-1">http://books.google.com/books?id=cCo2Ray4B7kC%5C&amp;pgis=1</bib_extra>
+    <bib_extra key="Chapter"></bib_extra>
+    <bib_extra key="Isbn">1853592153</bib_extra>
+    <bib_extra key="Publisher">Multilingual Matters</bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=cCo2Ray4B7kC\&amp;pgis=1</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Gray2003</key>
+    <notes></notes>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Brief Historical Review of the Development of the Distinction Between Data and Information</bib_title>
+    <bib_authors>Gray, Robert L.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>2843-2849</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Abstract">It is a commonplace among contemporary information systems professionals that the concepts of data and information are obviously distinct and clearly understood. Through a review of the historical literature, this paper shows that, in fact, the distinction is not obvious, that it is an outgrowth of work in the information systems area, and that the distinction is not clearly understood. The paper briefly notes some of the implications of this historical development for information systems theory. This paper will be of interest primarily to academics and those with an interest in the conceptual foundations and theoretical frameworks guiding Information Systems research.</bib_extra>
+    <bib_extra key="Added-at">2010-09-17T12:13:31.000+0200</bib_extra>
+    <bib_extra key="Address">Tampa, Florida</bib_extra>
+    <bib_extra key="Biburl">http://www.bibsonomy.org/bibtex/2b2bf97d6d9b57072cca90215f01974dd/voj</bib_extra>
+    <bib_extra key="BookTitle">Proceedings of the 9th Americas Conference on Information Systems</bib_extra>
+    <bib_extra key="Editor">Ross, J. and Galletta, D.</bib_extra>
+    <bib_extra key="Interhash">6c6c2cfe45538f1eb0cc8be239d47d94</bib_extra>
+    <bib_extra key="Intrahash">b2bf97d6d9b57072cca90215f01974dd</bib_extra>
+    <bib_extra key="Keywords">data foundations information</bib_extra>
+    <bib_extra key="Publisher">Association for Information Systems</bib_extra>
+    <bib_extra key="Timestamp">2010-09-17T12:13:31.000+0200</bib_extra>
+    <bib_extra key="Url">http://www.cis.gsu.edu/~dtruex/courses/CIS8660/CasesArticles/Gray-Historicalreview-Data-Info%20AMCIS03.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Voss2011</key>
+    <notes></notes>
+    <bib_type>Unpublished</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Revealing digital documents. Concealed structures in data</bib_title>
+    <bib_authors>Voss, Jakob</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Abstract">This short paper gives an introduction to a research project to analyze how digital documents are structured and described. Using a phenomenological approach, this research will reveal common patterns that are used in data, independent from the particular technology in which the data is available. The ability to identify these patterns, on different levels of description, is important for several applications in digital libraries. A better understanding of data structuring will not only help to better capture singular characteristics of data by metadata, but will also recover intended structures of digital objects, beyond long term preservation.</bib_extra>
+    <bib_extra key="Date-modified">2011-05-14 16:32:46 +1000</bib_extra>
+    <bib_extra key="Note">Mendeley</bib_extra>
+    <bib_extra key="Pages">8</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Wand2002</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Research commentary: information systems and conceptual modeling-a research agenda</bib_title>
+    <bib_authors>Wand, Yair and Weber, Ron</bib_authors>
+    <bib_journal>Information Systems Research</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Bdsk-url-1">http://cisnet.baruch.cuny.edu/phd/tstern/grammareval/research%20commentary%20information%20systems%20and%20conceptual%20modeling%20a%20research%20agenda.pdf</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Wand, Weber/Information Systems Research/Wand, Weber - 2002 - Research commentary information systems and conceptual modeling-a research agenda.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://cisnet.baruch.cuny.edu/phd/tstern/grammareval/research commentary information systems and conceptual modeling a research agenda.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Wetherbe1991</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Executive information requirements: getting it right</bib_title>
+    <bib_authors>Wetherbe, J. C.</bib_authors>
+    <bib_journal>Mis Quarterly</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1991</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.jstor.org/stable/249435</bib_extra>
+    <bib_extra key="Url">http://www.jstor.org/stable/249435</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Wiener1950</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Cybernetics</bib_title>
+    <bib_authors>Wiener, N.</bib_authors>
+    <bib_journal>Bulletin of the American Academy of Arts and Sciences</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1950</bib_year>
+    <bib_extra key="Bdsk-url-1">http://www.jstor.org/stable/3822945</bib_extra>
+    <bib_extra key="Url">http://www.jstor.org/stable/3822945</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Wilson2007</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Boundary Objects as Rhetorical Exigence: Knowledge Mapping and Interdisciplinary Cooperation at the Los Alamos National Laboratory</bib_title>
+    <bib_authors>Wilson, G. and Herndl, C. G.</bib_authors>
+    <bib_journal>Journal of Business and Technical Communication</bib_journal>
+    <bib_volume>21</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>129-154</bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Abstract">This article uses qualitative material gathered at the Los Alamos National Laboratory (LANL) to construct a model of the rhetorical activity that occurs at the boundaries between diverse communities of practice working on complex sociotechnical systems. The authors reinterpret the notion of the boundary object current in science studies as a rhetorical construct that can foster cooperation and communication among the diverse members of heterogeneous working groups. The knowledge maps constructed by team members at LANL in their work on technical systems are boundary objects that can replace the demarcation exigence that so often leads to agonistic rhetorical boundary work with an integrative exigence. The integrative exigence realized by the boundary object of the knowledge map can help create a temporary trading zone characterized by rhetorical relations of symmetry and mutual understanding. In such cases, boundary work can become an effort involving integration and understanding rather than contest, controversy, and demarcation.</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://jbt.sagepub.com/cgi/content/abstract/21/2/129</bib_extra>
+    <bib_extra key="Bdsk-url-2">http://dx.doi.org/10.1177/1050651906297164</bib_extra>
+    <bib_extra key="Doi">10.1177/1050651906297164</bib_extra>
+    <bib_extra key="Issn">1050-6519</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+    <bib_extra key="Url">http://jbt.sagepub.com/cgi/content/abstract/21/2/129</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Yudkowsky2011</key>
+    <notes></notes>
+    <bib_type>Inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Chapter 1: A Day of Very Low Probability</bib_title>
+    <bib_authors>Yudkowsky, Eliezer</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="Annote">undefined</bib_extra>
+    <bib_extra key="Bdsk-url-1">http://www.fanfiction.net/s/5782108/1/Harry%5C_Potter%5C_and%5C_the%5C_Methods%5C_of%5C_Rationality</bib_extra>
+    <bib_extra key="Chapter"></bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Yudkowsky/Harry Potter and the Methods of Rationality/Yudkowsky - 2011 - Chapter 1 A Day of Very Low Probability.html:html</bib_extra>
+    <bib_extra key="Publisher">Fanfiction.net</bib_extra>
+    <bib_extra key="Url">http://www.fanfiction.net/s/5782108/1/Harry\_Potter\_and\_the\_Methods\_of\_Rationality</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Zins2007</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Knowledge map of information science</bib_title>
+    <bib_authors>Zins, C.</bib_authors>
+    <bib_journal>Journal of the American Society for Information …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://onlinelibrary.wiley.com/doi/10.1002/asi.20505/full</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Zins/Journal of the American Society for Information …/Zins - 2007 - Knowledge map of information science.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://onlinelibrary.wiley.com/doi/10.1002/asi.20505/full</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Zins2007a</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Classification schemes of Information Science: Twenty‐eight scholars map the field</bib_title>
+    <bib_authors>Zins, C.</bib_authors>
+    <bib_journal>Journal of the American Society for Information …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://onlinelibrary.wiley.com/doi/10.1002/asi.20506/full</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Zins/Journal of the American Society for Information …/Zins - 2007 - Classification schemes of Information Science Twenty‐eight scholars map the field.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://onlinelibrary.wiley.com/doi/10.1002/asi.20506/full</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Zins2007b</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Conceptual approaches for defining data, information, and knowledge</bib_title>
+    <bib_authors>Zins, C.</bib_authors>
+    <bib_journal>Journal of the American Society for Information …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://onlinelibrary.wiley.com/doi/10.1002/asi.20508/full</bib_extra>
+    <bib_extra key="File">:Volumes/Data/localDataNoBackup/z3235728/Mendeley/Zins/Journal of the American Society for Information …/Zins - 2007 - Conceptual approaches for defining data, information, and knowledge.pdf:pdf</bib_extra>
+    <bib_extra key="Url">http://onlinelibrary.wiley.com/doi/10.1002/asi.20508/full</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Zins2007c</key>
+    <notes></notes>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Conceptions of information science</bib_title>
+    <bib_authors>Zins, C.</bib_authors>
+    <bib_journal>Journal of the American Society for Information …</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="Bdsk-url-1">http://onlinelibrary.wiley.com/doi/10.1002/asi.20507/abstract</bib_extra>
+    <bib_extra key="Url">http://onlinelibrary.wiley.com/doi/10.1002/asi.20507/abstract</bib_extra>
+  </doc>
+</doclist>
+</library>

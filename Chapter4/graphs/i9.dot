@@ -1,0 +1,56 @@
+digraph G {
+ lead	[label="Lead  Position 56"];
+ res	[label="Position 56"];
+ exp	[label="Noun 35"];
+ build	[label="Noun 35  Builders"];
+ des	[label="Position 122"];
+ fpe	[label="Position 22"];
+ com	[label="Noun 96  Trials"];
+ eng	[label="Position 125"];
+ docs	[label="Documentation"];
+ 
+ res -> lead	[label="Critique\nInformation"];
+ lead -> res	[label="Request to confirm correlation\nInformation"];
+ res -> lead	[label="Professional Support\nInformation"];
+ res -> lead	[label="Potential Physical Laws\nKnowledge", dir="both"];
+ lead -> exp	[label="Specifications\nData"];
+ exp ->	lead	[label="Experiential Data\nData"];
+ exp -> res	[label="Experiential Data\nData"];
+ build -> exp	[label="Piece of Noun 121\nData"];
+ des -> build	[label="Drawings\nData"];
+ lead -> build	[label="Intent\nInformation"];
+ des -> lead	[label="Filtered Current Design & Intent\nInformation"];
+ lead -> des	[label="Noun 121 Design Recommendations\nKnowledge"];
+ 
+ lead -> des	[label="Interpretation of Measurements\nInformation"];
+ lead -> fpe	[label="Interpretation of Measurements\nInformation"];
+ 
+ fpe -> des	[label="Personal Expertise\nKnowledge"];
+ des -> com	[label="Noun 121\nData"];
+ des -> fpe	[label="Current Design & Intent\nInformation"];
+ des -> eng	[label="Requested Performance\nInformation"];
+ 
+ //*2
+ com -> lead	[label="Commissioning Data\nData"];
+ com -> fpe	[label="Commissioning Data\nData"];
+ com -> des	[label="Commissioning Data\nData"];
+ eng -> lead	[label="Plans\nInformation"];
+ eng -> fpe	[label="Plans\nInformation"];
+ eng -> des	[label="Plans\nInformation"];
+ docs->lead	[label="Pertinent Laws of Physics\nKnowledge"];
+ docs->fpe	[label="Pertinent Laws of Physics\nKnowledge"];
+ docs->des	[label="Pertinent Laws of Physics\nKnowledge"];
+ 
+ lead -> fpe 	[label="Operational Understanding\nKnowledge"];
+ fpe -> lead	[label="Confirmation of Correlation\nInformation"];
+ 
+ eng -> com	[label="Noun 75  Specifications\nData"];
+ com -> eng	[label="Noun 96  Data\nData"];
+ lead -> eng	[label="Request for Measurement\nInformation"];
+ 
+ lead -> docs	[label="Experimental Analysis\nInformation & Knowledge"];
+ des -> eng 	[label="Designs & Operating Manuals\nInformation"];
+ 
+ 
+ 
+}

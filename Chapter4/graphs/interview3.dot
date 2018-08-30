@@ -1,0 +1,48 @@
+digraph G{
+	ResMan [label="Position 40"];
+	ExtTeam [label="Noun 43"];
+	ProjLead [label="Position 32"];
+	Lab	[label="External  Laboratory"];
+	Oven [label="Experimental  Noun 45"];
+	Crusher [label="Noun 44"];
+	Plant [label="Noun 60  Team"];
+	PLPlant [label="Noun 60 Team  and  Position 32"];
+	PlantOps [label="Position 48"];
+	Supply [label="Verb 51  Department"];
+	Coal [label="Noun 21  Verb 51"];
+	
+	ResMan -> ExtTeam [label="Noun 42 conducted to SOP\nInformation"];
+	ResMan -> ExtTeam [label="Physical Noun 37 for Research"];
+	ResMan -> ProjLead [label="Reports on Results\nData"];
+	ResMan -> Lab [label="Noun 42 conducted to SOP\nInformation"];
+	
+	ExtTeam -> Crusher [label="Physical Samples for Verbing"];
+	ExtTeam -> Crusher [label="Size Settings\nInformation"];
+	
+	Crusher -> Oven [label="Crushed & Sized Noun 21"];
+	
+	Oven -> Lab [label="Noun 46 Samples"];
+
+	Lab -> ResMan [label="Results of Noun 46 Samples\nData"];
+
+	ProjLead -> ResMan [label="Noun 42\nInformation"];
+	ProjLead -> PLPlant [label="Results Summary & Analysis\nData"];
+	
+	Plant -> ProjLead [label="Information to help design Noun 42\nInformation"];
+	Plant-> ResMan [label="Noun 46 Samples"];
+	Plant -> ResMan [label="Sample Characteristics\nData"];
+
+	PLPlant -> ResMan [label="Updated Noun 42\nInformation"];
+
+	PLPlant -> PlantOps [label="Intellectual Property\nKnowledge"];
+	PLPlant -> PlantOps [label="Executive Summary\nInformation"];
+
+	PlantOps -> Supply [label="Decision on Noun 52\nInformation"];
+	Supply -> Coal [label="Noun 52 Order\nInformation"];
+	Coal -> Supply [label="Noun 21  Specifications\nData"];
+	Coal -> PlantOps [label="Noun 21  Specifications\nData"];
+
+	PlantOps -> ProjLead [label="Recommendations\nInformation"];
+	PLPlant -> ProjLead [label="Recommendations\nInformation"];
+
+}
